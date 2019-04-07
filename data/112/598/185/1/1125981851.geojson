@@ -1,0 +1,145 @@
+{
+  "id": 1125981851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33389,62.27865,-6.33389,62.27865",
+    "geom:latitude":62.27865,
+    "geom:longitude":-6.33389,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":95,
+    "gn:population":95,
+    "iso:country":"FO",
+    "lbl:latitude":62.27865,
+    "lbl:longitude":-6.33389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0421\u0432\u0443\u0439\u043d\u0430\u0439"
+    ],
+    "name:dan_x_preferred":[
+        "Sv\u00ednoy bygd"
+    ],
+    "name:dut_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b2\u03af\u03bd\u03bf\u03ca"
+    ],
+    "name:eng_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:fao_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d9\u05e0\u05d5\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ube44\ub178\uc774"
+    ],
+    "name:lit_x_preferred":[
+        "Svuinojus"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0432\u0443\u0439\u043d\u043e\u0439"
+    ],
+    "name:rum_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0443\u0439\u043d\u043e\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0443\u0439\u043d\u043e\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Svin\u00f6 Bygd"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6e29\u5c9b"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2611990,
+    "qs_pg:gn_pop":95,
+    "qs_pg:name":"Sv\u00ednoy",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Nor\u00f0oy",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1165538,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472763,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Nor\u00f0oy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611990,
+        "gp:id":472763,
+        "qs_pg:id":1165538,
+        "wd:id":"Q1416487"
+    },
+    "wof:country":"FO",
+    "wof:created":1497298595,
+    "wof:geomhash":"92752059e527e91a19b8b714afeebd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125981851,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1125981851,
+    "wof:lastmodified":1514423775,
+    "wof:name":"Sv\u00ednoy",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33389,
+    62.27865,
+    -6.33389,
+    62.27865
+],
+  "geometry": {"coordinates":[-6.33389,62.27865],"type":"Point"}
+}

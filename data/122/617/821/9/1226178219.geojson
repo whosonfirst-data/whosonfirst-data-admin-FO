@@ -1,0 +1,68 @@
+{
+  "id": 1226178219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88469,61.52187,-6.88469,61.52187",
+    "geom:latitude":61.52187,
+    "geom:longitude":-6.88469,
+    "gn:admin1_code":"SU",
+    "gn:admin2_code":"46",
+    "gn:asciiname":"Teigar",
+    "gn:country_code":"FO",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611796,
+    "gn:latitude":61.52187,
+    "gn:longitude":-6.88469,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Teigar",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611796
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"9cb4ee2aa921e901469b4017ec657b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1226178219,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226178219,
+    "wof:lastmodified":1537029570,
+    "wof:name":"Teigar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88469,
+    61.52186999999999,
+    -6.88469,
+    61.52186999999999
+],
+  "geometry": {"coordinates":[-6.88469,61.52186999999999],"type":"Point"}
+}

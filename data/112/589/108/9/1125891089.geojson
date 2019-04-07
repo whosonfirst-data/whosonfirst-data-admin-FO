@@ -1,0 +1,128 @@
+{
+  "id": 1125891089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06241,62.26724,-7.06241,62.26724",
+    "geom:latitude":62.26724,
+    "geom:longitude":-7.06241,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":31,
+    "gn:population":31,
+    "iso:country":"FO",
+    "lbl:latitude":62.26724,
+    "lbl:longitude":-7.06241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:fao_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:nob_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:rum_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Lj\u00f3s\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Lys\u00e5"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2617513,
+    "qs_pg:gn_pop":31,
+    "qs_pg:name":"Lj\u00f3s\u00e1",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Nor\u00f0ara Eysturoy",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":925340,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472690,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Nor\u00f0ara Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617513,
+        "gp:id":472690,
+        "qs_pg:id":925340,
+        "wd:id":"Q733544"
+    },
+    "wof:country":"FO",
+    "wof:created":1497295320,
+    "wof:geomhash":"68fe01cec9bfefdf63e085eb0d8b0b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125891089,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1125891089,
+    "wof:lastmodified":1514423768,
+    "wof:name":"Lj\u00f3s\u00e1",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06241,
+    62.26724,
+    -7.06241,
+    62.26724
+],
+  "geometry": {"coordinates":[-7.06241,62.26724],"type":"Point"}
+}

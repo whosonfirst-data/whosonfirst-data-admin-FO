@@ -1,0 +1,75 @@
+{
+  "id": 1226176925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86667,62.11667,-6.86667,62.11667",
+    "geom:latitude":62.11667,
+    "geom:longitude":-6.86667,
+    "gn:admin1_code":"ST",
+    "gn:asciiname":"Kjalnes",
+    "gn:cc2":"FO",
+    "gn:country_code":"FO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618823,
+    "gn:latitude":62.11667,
+    "gn:longitude":-6.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kjalnes",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keln\u00e6s",
+        "K\u00e6ln\u00e6stange",
+        "K\u00e6ln\u00e6s",
+        "Kjalnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618823
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"a82f7f58e8e686ef0b43e22cc0c77964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1226176925,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1226176925,
+    "wof:lastmodified":1537622475,
+    "wof:name":"Kjalnes",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86667,
+    62.11666999999999,
+    -6.86667,
+    62.11666999999999
+],
+  "geometry": {"coordinates":[-6.86667,62.11666999999999],"type":"Point"}
+}

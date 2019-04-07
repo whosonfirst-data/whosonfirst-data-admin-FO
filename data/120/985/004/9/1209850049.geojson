@@ -1,0 +1,101 @@
+{
+  "id": 1209850049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92527,62.23656,-6.92527,62.23656",
+    "geom:latitude":62.23656,
+    "geom:longitude":-6.92527,
+    "gn:admin1_code":"OS",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Funningsfjordur",
+    "gn:country_code":"FO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621767,
+    "gn:latitude":62.23656,
+    "gn:longitude":-6.92527,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Funningsfj\u00f8r\u00f0ur",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:deu_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:eng_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:fao_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:fra_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:nld_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:pol_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:swe_x_preferred":[
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "name:und_x_variant":[
+        "Fundingbund",
+        "Funningsbotnur",
+        "Fundingsbotn",
+        "Funningsbothur",
+        "Funningsfj\u00f8r\u00f0ur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621767,
+        "wk:page":"Funningsfj%C3%B8r%C3%B0ur"
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"8418cb44d4b24207b28de8cbf16fe69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1209850049,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1209850049,
+    "wof:lastmodified":1537622476,
+    "wof:name":"Funningsfjordur",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92527,
+    62.23656,
+    -6.92527,
+    62.23656
+],
+  "geometry": {"coordinates":[-6.92527,62.23656],"type":"Point"}
+}

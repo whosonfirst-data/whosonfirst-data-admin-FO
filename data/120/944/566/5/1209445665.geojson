@@ -1,0 +1,61 @@
+{
+  "id": 1209445665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56935,62.22127,-6.56935,62.22127",
+    "geom:latitude":62.22127,
+    "geom:longitude":-6.56935,
+    "gn:admin1_code":"NO",
+    "gn:asciiname":"Vagsheygur",
+    "gn:country_code":"FO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610811,
+    "gn:latitude":62.22127,
+    "gn:longitude":-6.56935,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"V\u00e1gsheygur",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610811
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"98094d2aec1b8a46cb5565c703a7cce6",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633153,
+            "locality_id":1209445665
+        }
+    ],
+    "wof:id":1209445665,
+    "wof:lastmodified":1536286826,
+    "wof:name":"Vagsheygur",
+    "wof:parent_id":85633153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56935,
+    62.22127,
+    -6.56935,
+    62.22127
+],
+  "geometry": {"coordinates":[-6.56935,62.22127],"type":"Point"}
+}

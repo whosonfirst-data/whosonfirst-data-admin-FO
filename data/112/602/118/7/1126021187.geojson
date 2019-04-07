@@ -1,0 +1,127 @@
+{
+  "id": 1126021187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72152,62.12475,-6.72152,62.12475",
+    "geom:latitude":62.12475,
+    "geom:longitude":-6.72152,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":425,
+    "gn:population":425,
+    "iso:country":"FO",
+    "lbl:latitude":62.12475,
+    "lbl:longitude":-6.72152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:dut_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:eng_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:fao_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:fre_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:ger_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:glv_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:hun_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:nob_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:rum_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:swe_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:unk_x_variant":[
+        "Glibre"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2621340,
+    "qs_pg:gn_pop":425,
+    "qs_pg:name":"Glyvrar",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Sy\u00f0ra Eysturoy",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":251990,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472636,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Sy\u00f0ra Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621340,
+        "gp:id":472636,
+        "qs_pg:id":251990,
+        "wd:id":"Q1011161"
+    },
+    "wof:country":"FO",
+    "wof:created":1497300839,
+    "wof:geomhash":"97bba02d2c87ee35615dac3c42507af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1126021187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126021187,
+    "wof:lastmodified":1529340823,
+    "wof:name":"Glyvrar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":425,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72152,
+    62.12475,
+    -6.72152,
+    62.12475
+],
+  "geometry": {"coordinates":[-6.72152,62.12475],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1125881147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67019,62.00937,-6.67019,62.00937",
+    "geom:latitude":62.00937,
+    "geom:longitude":-6.67019,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":283,
+    "gn:population":283,
+    "iso:country":"FO",
+    "lbl:latitude":62.00937,
+    "lbl:longitude":-6.67019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "N\u00f3lsoy bygd"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:fao_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:lit_x_preferred":[
+        "Noulsojus"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u043b\u044c\u0441\u043e\u0439"
+    ],
+    "name:pol_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:rum_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f3lsoy"
+    ],
+    "name:unk_x_variant":[
+        "N\u00f3lsoyarbygd"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2616437,
+    "qs_pg:gn_pop":283,
+    "qs_pg:name":"N\u00f3lsoy",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"T\u00f3rshavn",
+    "qs_pg:photos":220,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":220,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":887640,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"T\u00f3rshavn",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616437,
+        "gp:id":472704,
+        "qs_pg:id":887640,
+        "wd:id":"Q946470"
+    },
+    "wof:country":"FO",
+    "wof:created":1497294812,
+    "wof:geomhash":"a701d412f5b2a403aca0405046d36eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125881147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125881147,
+    "wof:lastmodified":1514423770,
+    "wof:name":"N\u00f3lsoy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67019,
+    62.00937,
+    -6.67019,
+    62.00937
+],
+  "geometry": {"coordinates":[-6.67019,62.00937],"type":"Point"}
+}

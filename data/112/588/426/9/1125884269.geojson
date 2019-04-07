@@ -1,0 +1,128 @@
+{
+  "id": 1125884269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75428,62.16319,-6.75428,62.16319",
+    "geom:latitude":62.16319,
+    "geom:longitude":-6.75428,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":360,
+    "gn:population":360,
+    "iso:country":"FO",
+    "lbl:latitude":62.16319,
+    "lbl:longitude":-6.75428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:fao_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:glv_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0451\u043b\u044c\u0434\u0430\u0440\u0444\u044c\u0451\u0440\u0443\u0440"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
+    "name:unk_x_variant":[
+        "Solmundefjord"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2613140,
+    "qs_pg:gn_pop":360,
+    "qs_pg:name":"S\u00f8ldarfj\u00f8r\u00ffur",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Sy\u00f0ra Eysturoy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1212822,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472752,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Sy\u00f0ra Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613140,
+        "gp:id":472752,
+        "qs_pg:id":1212822,
+        "wd:id":"Q1094343"
+    },
+    "wof:country":"FO",
+    "wof:created":1497294997,
+    "wof:geomhash":"85d4ef5e6add8b3a289c3bc9c04e514e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125884269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125884269,
+    "wof:lastmodified":1529340826,
+    "wof:name":"S\u00f8ldarfj\u00f8r\u00ffur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75428,
+    62.16319,
+    -6.75428,
+    62.16319
+],
+  "geometry": {"coordinates":[-6.75428,62.16319],"type":"Point"}
+}

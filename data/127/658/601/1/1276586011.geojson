@@ -1,0 +1,69 @@
+{
+  "id": 1276586011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.78968,62.03451,-6.78968,62.03451",
+    "geom:latitude":62.03451,
+    "geom:longitude":-6.78968,
+    "gn:admin1_code":"ST",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"millum Gilja",
+    "gn:country_code":"FO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181592,
+    "gn:latitude":62.03451,
+    "gn:longitude":-6.78968,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"millum Gilja",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181592
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"7b1c5f594ae56921c9fdbba9d556b35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1276586011,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1276586011,
+    "wof:lastmodified":1536938494,
+    "wof:name":"millum Gilja",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.78968,
+    62.03451,
+    -6.78968,
+    62.03451
+],
+  "geometry": {"coordinates":[-6.78968,62.03451],"type":"Point"}
+}

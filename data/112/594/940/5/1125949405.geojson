@@ -1,0 +1,82 @@
+{
+  "id": 1125949405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03875,62.22535,-7.03875,62.22535",
+    "geom:latitude":62.22535,
+    "geom:longitude":-7.03875,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":55,
+    "gn:population":55,
+    "iso:country":"FO",
+    "lbl:latitude":62.22535,
+    "lbl:longitude":-7.03875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Gjaan\u00f6re Hoalfst"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2621440,
+    "qs_pg:gn_pop":55,
+    "qs_pg:name":"Gj\u00e1noyri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":575272,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621440,
+        "qs_pg:id":575272
+    },
+    "wof:country":"FO",
+    "wof:created":1497297400,
+    "wof:geomhash":"ea7d08f84b205c1cb3b65b83614ec57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125949405,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1125949405,
+    "wof:lastmodified":1509998568,
+    "wof:name":"Gj\u00e1noyri",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03875,
+    62.22535,
+    -7.03875,
+    62.22535
+],
+  "geometry": {"coordinates":[-7.03875,62.22535],"type":"Point"}
+}

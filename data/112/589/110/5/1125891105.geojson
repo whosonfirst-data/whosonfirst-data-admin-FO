@@ -1,0 +1,127 @@
+{
+  "id": 1125891105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84138,62.13244,-6.84138,62.13244",
+    "geom:latitude":62.13244,
+    "geom:longitude":-6.84138,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":45,
+    "gn:population":45,
+    "iso:country":"FO",
+    "lbl:latitude":62.13244,
+    "lbl:longitude":-6.84138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Morskranes"
+    ],
+    "name:dut_x_preferred":[
+        "Morskranes"
+    ],
+    "name:eng_x_preferred":[
+        "Morskranes"
+    ],
+    "name:fao_x_preferred":[
+        "Morskranes"
+    ],
+    "name:fre_x_preferred":[
+        "Morskranes"
+    ],
+    "name:ger_x_preferred":[
+        "Morskranes"
+    ],
+    "name:hun_x_preferred":[
+        "Morskranes"
+    ],
+    "name:nob_x_preferred":[
+        "Morskranes"
+    ],
+    "name:pol_x_preferred":[
+        "Morskranes"
+    ],
+    "name:rum_x_preferred":[
+        "Morskranes"
+    ],
+    "name:swe_x_preferred":[
+        "Morskranes"
+    ],
+    "name:unk_x_variant":[
+        "Morskern\u00e6s"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2616756,
+    "qs_pg:gn_pop":45,
+    "qs_pg:name":"Morskranes",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Sy\u00f0ra Eysturoy",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":925341,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Sy\u00f0ra Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616756,
+        "gp:id":472695,
+        "qs_pg:id":925341,
+        "wd:id":"Q1093208"
+    },
+    "wof:country":"FO",
+    "wof:created":1497295320,
+    "wof:geomhash":"71cd3148acd81718ca062c2a3d1068d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125891105,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125891105,
+    "wof:lastmodified":1529340823,
+    "wof:name":"Morskranes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84138,
+    62.13244,
+    -6.84138,
+    62.13244
+],
+  "geometry": {"coordinates":[-6.84138,62.13244],"type":"Point"}
+}

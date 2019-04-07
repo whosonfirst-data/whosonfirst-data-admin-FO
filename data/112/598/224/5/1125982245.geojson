@@ -1,0 +1,117 @@
+{
+  "id": 1125982245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80176,61.77308,-6.80176,61.77308",
+    "geom:latitude":61.77308,
+    "geom:longitude":-6.80176,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":53,
+    "gn:population":53,
+    "iso:country":"FO",
+    "lbl:latitude":61.77308,
+    "lbl:longitude":-6.80176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Sk\u00favoy"
+    ],
+    "name:dut_x_preferred":[
+        "Sk\u00favoy"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00favoy"
+    ],
+    "name:hun_x_preferred":[
+        "Sk\u00favoy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ad\u30e5\u30fc\u30f4\u30a9\u30a4"
+    ],
+    "name:lit_x_preferred":[
+        "Skuvojus"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u043a\u0443\u0432\u043e\u0439"
+    ],
+    "name:rum_x_preferred":[
+        "Sk\u00favoy"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00favoy"
+    ],
+    "name:unk_x_variant":[
+        "Sk\u00favoyarbygd"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2613477,
+    "qs_pg:gn_pop":53,
+    "qs_pg:name":"Sk\u00favoy",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Sandoy",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1342740,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472750,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Sandoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613477,
+        "gp:id":472750,
+        "qs_pg:id":1342740,
+        "wd:id":"Q6274717"
+    },
+    "wof:country":"FO",
+    "wof:created":1497298612,
+    "wof:geomhash":"a0d4a443153d332a05937f2794d46d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125982245,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125982245,
+    "wof:lastmodified":1553816677,
+    "wof:name":"Sk\u00favoy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80176,
+    61.77308,
+    -6.80176,
+    61.77308
+],
+  "geometry": {"coordinates":[-6.80176,61.77308],"type":"Point"}
+}

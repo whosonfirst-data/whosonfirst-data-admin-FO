@@ -1,0 +1,68 @@
+{
+  "id": 1259416511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95709,61.60302,-6.95709,61.60302",
+    "geom:latitude":61.60302,
+    "geom:longitude":-6.95709,
+    "gn:admin1_code":"SU",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Skalar",
+    "gn:country_code":"FO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613925,
+    "gn:latitude":61.60302,
+    "gn:longitude":-6.95709,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Sk\u00e1lar",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613925
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"64272e1d1cb1d018d5356fdc4637ca84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1259416511,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259416511,
+    "wof:lastmodified":1536955138,
+    "wof:name":"Skalar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95709,
+    61.60302,
+    -6.95709,
+    61.60302
+],
+  "geometry": {"coordinates":[-6.95709,61.60302],"type":"Point"}
+}

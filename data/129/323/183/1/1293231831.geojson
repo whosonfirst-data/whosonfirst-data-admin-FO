@@ -1,0 +1,74 @@
+{
+  "id": 1293231831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04654,62.23354,-7.04654,62.23354",
+    "geom:latitude":62.23354,
+    "geom:longitude":-7.04654,
+    "gn:admin1_code":"ST",
+    "gn:asciiname":"Langasandur",
+    "gn:country_code":"FO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617970,
+    "gn:latitude":62.23354,
+    "gn:longitude":-7.04654,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Langasandur",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Faroe",
+    "iso:country":"FO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langesand",
+        "Nybo",
+        "Langasandur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617970,
+        "wk:page":"Langasandur"
+    },
+    "wof:country":"FO",
+    "wof:geomhash":"4a632fd31e4ba61d81198c0dbe738228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1293231831,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1293231831,
+    "wof:lastmodified":1537622475,
+    "wof:name":"Langasandur",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04654,
+    62.23354000000001,
+    -7.04654,
+    62.23354000000001
+],
+  "geometry": {"coordinates":[-7.04654,62.23354000000001],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1125872115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72724,62.08202,-6.72724,62.08202",
+    "geom:latitude":62.08202,
+    "geom:longitude":-6.72724,
+    "gn:gn_country":"FO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":233,
+    "gn:population":233,
+    "iso:country":"FO",
+    "lbl:latitude":62.08202,
+    "lbl:longitude":-6.72724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Nes"
+    ],
+    "name:dut_x_preferred":[
+        "Nes"
+    ],
+    "name:eng_x_preferred":[
+        "Nes"
+    ],
+    "name:fao_x_preferred":[
+        "Nes"
+    ],
+    "name:fre_x_preferred":[
+        "Nes"
+    ],
+    "name:ger_x_preferred":[
+        "Nes"
+    ],
+    "name:hun_x_preferred":[
+        "Nes"
+    ],
+    "name:lit_x_preferred":[
+        "Nesas"
+    ],
+    "name:nob_x_preferred":[
+        "Nes"
+    ],
+    "name:rum_x_preferred":[
+        "Nes"
+    ],
+    "name:spa_x_preferred":[
+        "Nes"
+    ],
+    "name:swe_x_preferred":[
+        "Nes"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e6s"
+    ],
+    "qs_pg:aaroncc":"FO",
+    "qs_pg:gn_country":"FO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2616498,
+    "qs_pg:gn_pop":233,
+    "qs_pg:name":"Nes",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Sy\u00f0ra Eysturoy",
+    "qs_pg:photos":551,
+    "qs_pg:photos_1k":112,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":551,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":366712,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472701,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Sy\u00f0ra Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616498,
+        "gp:id":472701,
+        "qs_pg:id":366712,
+        "wd:id":"Q1079297"
+    },
+    "wof:country":"FO",
+    "wof:created":1497294352,
+    "wof:geomhash":"8aa412cd4babf2fe10e99b0a75192e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125872115,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125872115,
+    "wof:lastmodified":1529340824,
+    "wof:name":"Nes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72724,
+    62.08202,
+    -6.72724,
+    62.08202
+],
+  "geometry": {"coordinates":[-6.72724,62.08202],"type":"Point"}
+}
