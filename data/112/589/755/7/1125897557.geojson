@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Skarvanes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Skarvanes"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03c1\u03b2\u03b1\u03bd\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Skarvanes"
@@ -31,16 +34,13 @@
     "name:fao_x_preferred":[
         "Skarvanes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Skarvanes"
-    ],
-    "name:ger_x_preferred":[
-        "Skarvanes"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ba\u03ac\u03c1\u03b2\u03b1\u03bd\u03b5\u03c2"
     ],
     "name:hun_x_preferred":[
+        "Skarvanes"
+    ],
+    "name:nld_x_preferred":[
         "Skarvanes"
     ],
     "name:nob_x_preferred":[
@@ -49,7 +49,7 @@
     "name:pol_x_preferred":[
         "Skarvanes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Skarvanes"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125897557,
-    "wof:lastmodified":1529340828,
+    "wof:lastmodified":1561831530,
     "wof:name":"Skarvanes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

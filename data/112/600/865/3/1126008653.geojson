@@ -28,9 +28,6 @@
     "name:deu_x_preferred":[
         "G\u00e1sadalur"
     ],
-    "name:dut_x_preferred":[
-        "G\u00e1sadalur"
-    ],
     "name:eng_x_preferred":[
         "G\u00e1sadalur"
     ],
@@ -46,16 +43,7 @@
     "name:fra_x_preferred":[
         "G\u00e1sadalur"
     ],
-    "name:fre_x_preferred":[
-        "G\u00e1sadalur"
-    ],
-    "name:ger_x_preferred":[
-        "G\u00e1sadalur"
-    ],
     "name:hun_x_preferred":[
-        "G\u00e1sadalur"
-    ],
-    "name:ice_x_preferred":[
         "G\u00e1sadalur"
     ],
     "name:isl_x_preferred":[
@@ -73,7 +61,7 @@
     "name:pol_x_preferred":[
         "G\u00e1sadalur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00e1sadalur"
     ],
     "name:spa_x_preferred":[
@@ -141,7 +129,7 @@
         }
     ],
     "wof:id":1126008653,
-    "wof:lastmodified":1529340828,
+    "wof:lastmodified":1561831532,
     "wof:name":"G\u00e1sadalur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

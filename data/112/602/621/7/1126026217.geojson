@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:fao_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
-    "name:fre_x_preferred":[
-        "Nor\u00f0sk\u00e1li"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
     "name:glv_x_preferred":[
@@ -49,13 +46,16 @@
     "name:lit_x_preferred":[
         "Nordskalis"
     ],
+    "name:nld_x_preferred":[
+        "Nor\u00f0sk\u00e1li"
+    ],
     "name:nob_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
     "name:pol_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1126026217,
-    "wof:lastmodified":1529340827,
+    "wof:lastmodified":1561831529,
     "wof:name":"Nor\u00f0sk\u00e1li",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

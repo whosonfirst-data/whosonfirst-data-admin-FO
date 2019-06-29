@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Mikladalur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mikladalur"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fao_x_preferred":[
         "Mikladalur"
     ],
-    "name:fre_x_preferred":[
-        "Mikladalur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mikladalur"
     ],
     "name:heb_x_preferred":[
@@ -46,6 +43,9 @@
     "name:lit_x_preferred":[
         "Mikladaluras"
     ],
+    "name:nld_x_preferred":[
+        "Mikladalur"
+    ],
     "name:nob_x_preferred":[
         "Mikladalur"
     ],
@@ -55,7 +55,7 @@
     "name:pol_x_preferred":[
         "Mikladalur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mikladalur"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125982199,
-    "wof:lastmodified":1514423768,
+    "wof:lastmodified":1561831532,
     "wof:name":"Mikladalur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

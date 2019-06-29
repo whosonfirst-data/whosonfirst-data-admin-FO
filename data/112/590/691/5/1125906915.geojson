@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Streymnes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Streymnes"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fao_x_preferred":[
         "Streymnes"
     ],
-    "name:fre_x_preferred":[
-        "Streymnes"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Streymnes"
     ],
     "name:hun_x_preferred":[
@@ -43,13 +40,16 @@
     "name:lit_x_preferred":[
         "Streimnesas"
     ],
+    "name:nld_x_preferred":[
+        "Streymnes"
+    ],
     "name:nob_x_preferred":[
         "Streymnes"
     ],
     "name:pol_x_preferred":[
         "Streymnes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Streymnes"
     ],
     "name:spa_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125906915,
-    "wof:lastmodified":1514423775,
+    "wof:lastmodified":1561831531,
     "wof:name":"Streymnes",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

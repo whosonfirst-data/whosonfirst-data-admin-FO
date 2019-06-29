@@ -19,7 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Argir"
     ],
     "name:dan_x_preferred":[
@@ -28,8 +28,8 @@
     "name:deu_x_preferred":[
         "Argir"
     ],
-    "name:dut_x_preferred":[
-        "Argir"
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03b3\u03ba\u03b9\u03c1"
     ],
     "name:eng_x_preferred":[
         "Argir"
@@ -40,17 +40,8 @@
     "name:fra_x_preferred":[
         "Argir"
     ],
-    "name:fre_x_preferred":[
-        "Argir"
-    ],
-    "name:ger_x_preferred":[
-        "Argir"
-    ],
     "name:glv_x_preferred":[
         "Argir"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c1\u03b3\u03ba\u03b9\u03c1"
     ],
     "name:hun_x_preferred":[
         "Argir"
@@ -79,13 +70,13 @@
     "name:pol_x_preferred":[
         "Argir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Argir"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0434\u0436\u0438\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Argir"
     ],
     "name:spa_x_preferred":[
@@ -151,7 +142,7 @@
         }
     ],
     "wof:id":1126008619,
-    "wof:lastmodified":1514423760,
+    "wof:lastmodified":1561831532,
     "wof:name":"Argir",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

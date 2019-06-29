@@ -58,7 +58,7 @@
     "name:ron_x_preferred":[
         "Insula Hestur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Hestur"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1125849473,
-    "wof:lastmodified":1553816570,
+    "wof:lastmodified":1561831533,
     "wof:name":"Hestur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

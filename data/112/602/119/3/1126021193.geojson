@@ -22,8 +22,8 @@
     "name:dan_x_preferred":[
         "G\u00f8tuei\u00f0i"
     ],
-    "name:dut_x_preferred":[
-        "G\u00f8tuei\u00f0i"
+    "name:deu_x_preferred":[
+        "Undir G\u00f8tuei\u00f0i"
     ],
     "name:eng_x_preferred":[
         "G\u00f8tuei\u00f0i"
@@ -31,14 +31,14 @@
     "name:fao_x_preferred":[
         "G\u00f8tuei\u00f0i"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "G\u00f8tuei\u00f0i"
-    ],
-    "name:ger_x_preferred":[
-        "Undir G\u00f8tuei\u00f0i"
     ],
     "name:hun_x_preferred":[
         "Undir G\u00f8tuei\u00f0i"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00f8tuei\u00f0i"
     ],
     "name:nob_x_preferred":[
         "G\u00f8tuei\u00f0i"
@@ -46,7 +46,7 @@
     "name:pol_x_preferred":[
         "G\u00f8tuei\u00f0i"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00f8tuei\u00f0i"
     ],
     "name:swe_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1126021193,
-    "wof:lastmodified":1529340823,
+    "wof:lastmodified":1561831530,
     "wof:name":"G\u00f8tuei\u00ffi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

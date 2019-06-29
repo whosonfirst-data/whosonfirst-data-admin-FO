@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Nes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nes"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fao_x_preferred":[
         "Nes"
     ],
-    "name:fre_x_preferred":[
-        "Nes"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nes"
     ],
     "name:hun_x_preferred":[
@@ -43,10 +40,13 @@
     "name:lit_x_preferred":[
         "Nesas"
     ],
+    "name:nld_x_preferred":[
+        "Nes"
+    ],
     "name:nob_x_preferred":[
         "Nes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nes"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125872115,
-    "wof:lastmodified":1529340824,
+    "wof:lastmodified":1561831531,
     "wof:name":"Nes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Sk\u00e6lingur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sk\u00e6lingur"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:fao_x_preferred":[
         "Sk\u00e6lingur"
     ],
-    "name:fre_x_preferred":[
-        "Sk\u00e6lingur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sk\u00e6lingur"
     ],
     "name:hun_x_preferred":[
@@ -46,10 +43,13 @@
     "name:ita_x_preferred":[
         "Sk\u00e6lingur"
     ],
+    "name:nld_x_preferred":[
+        "Sk\u00e6lingur"
+    ],
     "name:nob_x_preferred":[
         "Sk\u00e6lingur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sk\u00e6lingur"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125774649,
-    "wof:lastmodified":1529340826,
+    "wof:lastmodified":1561831533,
     "wof:name":"Sk\u00e6lingur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "\u00c1nir"
     ],
-    "name:dut_x_preferred":[
-        "\u00c1nir"
-    ],
     "name:eng_x_preferred":[
         "\u00c1nir"
     ],
@@ -41,12 +38,6 @@
         "\u00c1nir"
     ],
     "name:fra_x_preferred":[
-        "\u00c1nir"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c1nir"
-    ],
-    "name:ger_x_preferred":[
         "\u00c1nir"
     ],
     "name:hun_x_preferred":[
@@ -70,7 +61,7 @@
     "name:por_x_preferred":[
         "\u00c1nir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00c1nir"
     ],
     "name:swe_x_preferred":[
@@ -130,7 +121,7 @@
         }
     ],
     "wof:id":1126006615,
-    "wof:lastmodified":1529340827,
+    "wof:lastmodified":1561831532,
     "wof:name":"\u00c1nir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

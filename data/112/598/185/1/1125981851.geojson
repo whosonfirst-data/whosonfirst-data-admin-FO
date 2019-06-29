@@ -25,9 +25,6 @@
     "name:dan_x_preferred":[
         "Sv\u00ednoy bygd"
     ],
-    "name:dut_x_preferred":[
-        "Sv\u00ednoy"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b2\u03af\u03bd\u03bf\u03ca"
     ],
@@ -49,10 +46,13 @@
     "name:lit_x_preferred":[
         "Svuinojus"
     ],
+    "name:nld_x_preferred":[
+        "Sv\u00ednoy"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u0432\u0443\u0439\u043d\u043e\u0439"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sv\u00ednoy"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125981851,
-    "wof:lastmodified":1514423775,
+    "wof:lastmodified":1561831532,
     "wof:name":"Sv\u00ednoy",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

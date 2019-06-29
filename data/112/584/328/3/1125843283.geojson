@@ -19,16 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "H\u00fasar"
     ],
     "name:dan_x_preferred":[
         "H\u00fasar"
     ],
     "name:deu_x_preferred":[
-        "H\u00fasar"
-    ],
-    "name:dut_x_preferred":[
         "H\u00fasar"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +35,6 @@
         "H\u00fasar"
     ],
     "name:fra_x_preferred":[
-        "H\u00fasar"
-    ],
-    "name:fre_x_preferred":[
-        "H\u00fasar"
-    ],
-    "name:ger_x_preferred":[
         "H\u00fasar"
     ],
     "name:hun_x_preferred":[
@@ -70,10 +61,10 @@
     "name:oss_x_preferred":[
         "\u0425\u0443\u0441\u0430\u0440"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "H\u00fasar"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "H\u00fasar"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +116,7 @@
         }
     ],
     "wof:id":1125843283,
-    "wof:lastmodified":1514423764,
+    "wof:lastmodified":1561831533,
     "wof:name":"H\u00fasar",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",
