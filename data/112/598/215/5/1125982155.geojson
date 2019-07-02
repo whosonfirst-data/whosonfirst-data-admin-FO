@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Leynar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Leynar"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +34,19 @@
     "name:fao_x_preferred":[
         "Leynar"
     ],
-    "name:fre_x_preferred":[
-        "Leynar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Leynar"
     ],
     "name:hun_x_preferred":[
         "Leynar"
     ],
+    "name:nld_x_preferred":[
+        "Leynar"
+    ],
     "name:nob_x_preferred":[
         "Leynar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Leynar"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125982155,
-    "wof:lastmodified":1529340824,
+    "wof:lastmodified":1561831532,
     "wof:name":"Leynar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

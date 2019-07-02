@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Haraldssund"
     ],
-    "name:dut_x_preferred":[
-        "Haraldssund"
-    ],
     "name:eng_x_preferred":[
         "Haraldssund"
     ],
@@ -38,12 +35,6 @@
         "Haraldssund"
     ],
     "name:fra_x_preferred":[
-        "Haraldssund"
-    ],
-    "name:fre_x_preferred":[
-        "Haraldssund"
-    ],
-    "name:ger_x_preferred":[
         "Haraldssund"
     ],
     "name:hun_x_preferred":[
@@ -61,7 +52,7 @@
     "name:pol_x_preferred":[
         "Haraldssund"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Haraldssund"
     ],
     "name:spa_x_preferred":[
@@ -127,7 +118,7 @@
         }
     ],
     "wof:id":1126017943,
-    "wof:lastmodified":1514423762,
+    "wof:lastmodified":1561831532,
     "wof:name":"Haraldssund",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

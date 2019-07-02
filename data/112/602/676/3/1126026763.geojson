@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Fro\u00f0ba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fro\u00f0ba"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fao_x_preferred":[
         "Fro\u00f0ba"
     ],
-    "name:fre_x_preferred":[
-        "Fro\u00f0ba"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fro\u00f0ba"
     ],
     "name:hun_x_preferred":[
@@ -46,6 +43,9 @@
     "name:lit_x_preferred":[
         "Frodba"
     ],
+    "name:nld_x_preferred":[
+        "Fro\u00f0ba"
+    ],
     "name:nob_x_preferred":[
         "Fro\u00f0ba"
     ],
@@ -55,7 +55,7 @@
     "name:por_x_preferred":[
         "Fro\u00f0ba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fro\u00f0ba"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1126026763,
-    "wof:lastmodified":1529340828,
+    "wof:lastmodified":1561831530,
     "wof:name":"Fro\u00f0ba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

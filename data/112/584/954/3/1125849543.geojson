@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "M\u00fali"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M\u00fali"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +31,13 @@
     "name:fao_x_preferred":[
         "M\u00fali"
     ],
-    "name:fre_x_preferred":[
-        "M\u00fali"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u00fali"
     ],
     "name:hun_x_preferred":[
+        "M\u00fali"
+    ],
+    "name:nld_x_preferred":[
         "M\u00fali"
     ],
     "name:nob_x_preferred":[
@@ -46,7 +46,7 @@
     "name:pol_x_preferred":[
         "M\u00fali"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "M\u00fali"
     ],
     "name:swe_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125849543,
-    "wof:lastmodified":1514423769,
+    "wof:lastmodified":1561831533,
     "wof:name":"M\u00fali",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,7 +22,7 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Faersk\u00e9 Ostrovy"
     ],
     "name:dan_x_colloquial":[
@@ -123,7 +123,7 @@
         "Ilhas Faro\u00e9",
         "Ilhas Fero\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Insulele Feroe"
     ],
     "name:rum_x_variant":[
@@ -272,7 +272,7 @@
     "wof:lang_x_spoken":[
         "fao"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1561831528,
     "wof:name":"Eysturoyar",
     "wof:parent_id":85633153,
     "wof:placetype":"region",

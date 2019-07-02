@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Sumba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sumba"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:fin_x_preferred":[
         "Sumba"
     ],
-    "name:fre_x_preferred":[
-        "Sumba"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sumba"
     ],
     "name:glv_x_preferred":[
@@ -47,6 +44,9 @@
         "Sumba"
     ],
     "name:lit_x_preferred":[
+        "Sumba"
+    ],
+    "name:nld_x_preferred":[
         "Sumba"
     ],
     "name:nob_x_preferred":[
@@ -61,7 +61,7 @@
     "name:por_x_preferred":[
         "Sumba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sumba"
     ],
     "name:spa_x_preferred":[
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1125982255,
-    "wof:lastmodified":1529340824,
+    "wof:lastmodified":1561831532,
     "wof:name":"Sumba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

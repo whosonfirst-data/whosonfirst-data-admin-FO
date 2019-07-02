@@ -25,25 +25,19 @@
     "name:deu_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
-    "name:dut_x_preferred":[
-        "Kirkjub\u00f8ur"
-    ],
     "name:eng_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
     "name:fao_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
-    "name:fre_x_preferred":[
-        "Kirkjub\u00f8ur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
     "name:hun_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Kirkjub\u00e6r"
     ],
     "name:ita_x_preferred":[
@@ -64,7 +58,7 @@
     "name:pol_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
     "name:spa_x_preferred":[
@@ -129,7 +123,7 @@
         }
     ],
     "wof:id":1125805177,
-    "wof:lastmodified":1529340826,
+    "wof:lastmodified":1561831531,
     "wof:name":"Kirkjub\u00f8ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

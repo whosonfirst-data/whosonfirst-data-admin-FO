@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Lambi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lambi"
     ],
     "name:eng_x_preferred":[
@@ -31,14 +31,14 @@
     "name:fao_x_preferred":[
         "Lamba"
     ],
-    "name:ger_x_preferred":[
-        "Lambi"
-    ],
     "name:hun_x_preferred":[
         "Lambi"
     ],
     "name:ita_x_preferred":[
         "Lamba"
+    ],
+    "name:nld_x_preferred":[
+        "Lambi"
     ],
     "name:nob_x_preferred":[
         "Lambi"
@@ -49,7 +49,7 @@
     "name:por_x_preferred":[
         "Lamba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lambi"
     ],
     "name:spa_x_preferred":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125844093,
-    "wof:lastmodified":1553816566,
+    "wof:lastmodified":1561831533,
     "wof:name":"Lambi",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Oyrarbakki"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oyrarbakki"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:fao_x_preferred":[
         "Oyrarbakki"
     ],
-    "name:fre_x_preferred":[
-        "Oyrarbakki"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oyrarbakki"
     ],
     "name:hun_x_preferred":[
@@ -46,13 +43,16 @@
     "name:lit_x_preferred":[
         "Oyrarbakis"
     ],
+    "name:nld_x_preferred":[
+        "Oyrarbakki"
+    ],
     "name:nob_x_preferred":[
         "Oyrarbakki"
     ],
     "name:pol_x_preferred":[
         "Oyrarbakki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oyrarbakki"
     ],
     "name:spa_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125891131,
-    "wof:lastmodified":1529340823,
+    "wof:lastmodified":1561831530,
     "wof:name":"Oyrarbakki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

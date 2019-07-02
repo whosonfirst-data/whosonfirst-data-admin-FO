@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Signab\u00f8ur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Signab\u00f8ur"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +31,19 @@
     "name:fao_x_preferred":[
         "Signab\u00f8ur"
     ],
-    "name:fre_x_preferred":[
-        "Signab\u00f8ur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Signab\u00f8ur"
     ],
     "name:hun_x_preferred":[
         "Signab\u00f8ur"
     ],
+    "name:nld_x_preferred":[
+        "Signab\u00f8ur"
+    ],
     "name:nob_x_preferred":[
         "Signab\u00f8ur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Signab\u00f8ur"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1126006663,
-    "wof:lastmodified":1514423773,
+    "wof:lastmodified":1561831532,
     "wof:name":"Signab\u00f8ur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

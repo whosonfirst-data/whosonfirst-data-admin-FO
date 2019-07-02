@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Innan Glyvur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Innan Glyvur"
     ],
     "name:eng_x_preferred":[
@@ -30,13 +30,13 @@
     "name:fao_x_preferred":[
         "Innan Glyvur"
     ],
-    "name:fre_x_preferred":[
-        "Innan Glyvur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Innan Glyvur"
     ],
     "name:hun_x_preferred":[
+        "Innan Glyvur"
+    ],
+    "name:nld_x_preferred":[
         "Innan Glyvur"
     ],
     "name:nob_x_preferred":[
@@ -45,7 +45,7 @@
     "name:pol_x_preferred":[
         "Innan Glyvur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Innan Glyvur"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125914979,
-    "wof:lastmodified":1514423765,
+    "wof:lastmodified":1561831531,
     "wof:name":"Innan Glyvur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

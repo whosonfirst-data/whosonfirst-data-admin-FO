@@ -22,9 +22,6 @@
     "name:dan_x_preferred":[
         "Sk\u00favoy"
     ],
-    "name:dut_x_preferred":[
-        "Sk\u00favoy"
-    ],
     "name:eng_x_preferred":[
         "Sk\u00favoy"
     ],
@@ -37,10 +34,13 @@
     "name:lit_x_preferred":[
         "Skuvojus"
     ],
+    "name:nld_x_preferred":[
+        "Sk\u00favoy"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u043a\u0443\u0432\u043e\u0439"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sk\u00favoy"
     ],
     "name:swe_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125982245,
-    "wof:lastmodified":1553816677,
+    "wof:lastmodified":1561831532,
     "wof:name":"Sk\u00favoy",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

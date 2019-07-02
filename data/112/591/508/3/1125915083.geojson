@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
     "name:eng_x_preferred":[
@@ -30,19 +30,19 @@
     "name:fao_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
-    "name:fre_x_preferred":[
-        "Kolbanargj\u00f3gv"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
     "name:hun_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
+    "name:nld_x_preferred":[
+        "Kolbanargj\u00f3gv"
+    ],
     "name:nob_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kolbanargj\u00f3gv"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125915083,
-    "wof:lastmodified":1529340826,
+    "wof:lastmodified":1561831531,
     "wof:name":"Kolbanargj\u00f3gv",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

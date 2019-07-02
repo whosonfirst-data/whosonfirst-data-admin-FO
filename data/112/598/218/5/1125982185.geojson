@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Lopra"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lopra"
     ],
     "name:eng_x_preferred":[
@@ -34,16 +34,16 @@
     "name:fao_x_preferred":[
         "Lopra"
     ],
-    "name:fre_x_preferred":[
-        "Lopra"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lopra"
     ],
     "name:hun_x_preferred":[
         "Lopra"
     ],
     "name:lit_x_preferred":[
+        "Lopra"
+    ],
+    "name:nld_x_preferred":[
         "Lopra"
     ],
     "name:nob_x_preferred":[
@@ -55,7 +55,7 @@
     "name:por_x_preferred":[
         "Lopra"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lopra"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1125982185,
-    "wof:lastmodified":1529340824,
+    "wof:lastmodified":1561831532,
     "wof:name":"Lopra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Morskranes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Morskranes"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +31,13 @@
     "name:fao_x_preferred":[
         "Morskranes"
     ],
-    "name:fre_x_preferred":[
-        "Morskranes"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Morskranes"
     ],
     "name:hun_x_preferred":[
+        "Morskranes"
+    ],
+    "name:nld_x_preferred":[
         "Morskranes"
     ],
     "name:nob_x_preferred":[
@@ -46,7 +46,7 @@
     "name:pol_x_preferred":[
         "Morskranes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Morskranes"
     ],
     "name:swe_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125891105,
-    "wof:lastmodified":1529340823,
+    "wof:lastmodified":1561831530,
     "wof:name":"Morskranes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

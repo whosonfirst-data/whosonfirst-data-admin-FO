@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fao_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
-    "name:fre_x_preferred":[
-        "H\u00f3sv\u00edk"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
     "name:glv_x_preferred":[
@@ -46,13 +43,16 @@
     "name:lit_x_preferred":[
         "Hosvikas"
     ],
+    "name:nld_x_preferred":[
+        "H\u00f3sv\u00edk"
+    ],
     "name:nob_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
     "name:pol_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1126017955,
-    "wof:lastmodified":1514423764,
+    "wof:lastmodified":1561831532,
     "wof:name":"H\u00f3sv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

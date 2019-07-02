@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Velbasta\u00f0ur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Velbasta\u00f0ur"
     ],
     "name:eng_x_preferred":[
@@ -31,22 +31,22 @@
     "name:fao_x_preferred":[
         "Velbasta\u00f0ur"
     ],
-    "name:fre_x_preferred":[
-        "Velbasta\u00f0ur"
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0628\u0633\u062a\u062a\u0648\u0631"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Velbasta\u00f0ur"
     ],
     "name:hun_x_preferred":[
         "Velbasta\u00f0ur"
     ],
+    "name:nld_x_preferred":[
+        "Velbasta\u00f0ur"
+    ],
     "name:nob_x_preferred":[
         "Velbasta\u00f0ur"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0628\u0633\u062a\u062a\u0648\u0631"
-    ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Velbasta\u00f0ur"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125786257,
-    "wof:lastmodified":1529340827,
+    "wof:lastmodified":1561831533,
     "wof:name":"Velbasta\u00ffur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

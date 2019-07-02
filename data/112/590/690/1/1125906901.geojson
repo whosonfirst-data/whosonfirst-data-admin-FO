@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Nor\u00f0radalur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nor\u00f0radalur"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +31,19 @@
     "name:fao_x_preferred":[
         "Nor\u00f0radalur"
     ],
-    "name:fre_x_preferred":[
-        "Nor\u00f0radalur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nor\u00f0radalur"
     ],
     "name:hun_x_preferred":[
         "Nor\u00f0radalur"
     ],
+    "name:nld_x_preferred":[
+        "Nor\u00f0radalur"
+    ],
     "name:nob_x_preferred":[
         "Nor\u00f0radalur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nor\u00f0radalur"
     ],
     "name:spa_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125906901,
-    "wof:lastmodified":1529340827,
+    "wof:lastmodified":1561831531,
     "wof:name":"Nor\u00ffradalur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

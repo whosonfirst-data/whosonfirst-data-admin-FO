@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
     "name:eng_x_preferred":[
@@ -34,16 +34,16 @@
     "name:fin_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
-    "name:fre_x_preferred":[
-        "Sy\u00f0rug\u00f8ta"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
     "name:glv_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
     "name:hun_x_preferred":[
+        "Sy\u00f0rug\u00f8ta"
+    ],
+    "name:nld_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
     "name:nob_x_preferred":[
@@ -55,7 +55,7 @@
     "name:pol_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
     "name:spa_x_preferred":[
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125906999,
-    "wof:lastmodified":1514423776,
+    "wof:lastmodified":1561831531,
     "wof:name":"Sy\u00ffrug\u00f8ta",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",
