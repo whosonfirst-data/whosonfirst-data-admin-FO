@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kirkja"
+    ],
     "name:dan_x_preferred":[
         "Kirkja"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125915007,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1563236575,
     "wof:name":"Kirkja",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

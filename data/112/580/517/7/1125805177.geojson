@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kirkjub\u00f8ur"
+    ],
+    "name:cym_x_preferred":[
+        "Kirkjub\u00f8ur"
+    ],
     "name:dan_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
@@ -61,6 +67,9 @@
     "name:ron_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0447\u044e\u0431\u0451\u0432\u0443\u0440"
+    ],
     "name:spa_x_preferred":[
         "Kirkjub\u00f8ur"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:unk_x_variant":[
         "Kirkeb\u00f6"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u723e\u4e18\u4f2f"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1125805177,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1563236567,
     "wof:name":"Kirkjub\u00f8ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -40,10 +40,16 @@
     "name:hun_x_preferred":[
         "Glyvrar"
     ],
+    "name:isl_x_preferred":[
+        "Glyvrar"
+    ],
     "name:nld_x_preferred":[
         "Glyvrar"
     ],
     "name:nob_x_preferred":[
+        "Glyvrar"
+    ],
+    "name:pol_x_preferred":[
         "Glyvrar"
     ],
     "name:ron_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1126021187,
-    "wof:lastmodified":1561831529,
+    "wof:lastmodified":1563236557,
     "wof:name":"Glyvrar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

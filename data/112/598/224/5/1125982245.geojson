@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Sk\u00favoy"
     ],
+    "name:fra_x_preferred":[
+        "Sk\u00favoy"
+    ],
     "name:hun_x_preferred":[
         "Sk\u00favoy"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0421\u043a\u0443\u0432\u043e\u0439"
+    ],
+    "name:pol_x_preferred":[
+        "Sk\u00favoy"
     ],
     "name:ron_x_preferred":[
         "Sk\u00favoy"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125982245,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1563236579,
     "wof:name":"Sk\u00favoy",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

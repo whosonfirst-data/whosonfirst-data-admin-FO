@@ -40,6 +40,9 @@
     "name:hun_x_preferred":[
         "H\u00f3sv\u00edk"
     ],
+    "name:isl_x_preferred":[
+        "H\u00f3sv\u00edk"
+    ],
     "name:lit_x_preferred":[
         "Hosvikas"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1126017955,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1563236583,
     "wof:name":"H\u00f3sv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

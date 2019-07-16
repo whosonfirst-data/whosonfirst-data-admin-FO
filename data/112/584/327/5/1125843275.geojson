@@ -88,6 +88,9 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u0439\u0432\u0443\u0439\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0439\u0432\u0438\u043a"
+    ],
     "name:slk_x_preferred":[
         "Hoyv\u00edk"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:unk_x_variant":[
         "Hoyvig"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u723e\u7dad\u514b"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1125843275,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236592,
     "wof:name":"Hoyv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

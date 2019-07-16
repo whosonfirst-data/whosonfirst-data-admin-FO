@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Velbasta\u00f0ur"
     ],
+    "name:pol_x_preferred":[
+        "Velbasta\u00f0ur"
+    ],
     "name:ron_x_preferred":[
         "Velbasta\u00f0ur"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125786257,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236588,
     "wof:name":"Velbasta\u00ffur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

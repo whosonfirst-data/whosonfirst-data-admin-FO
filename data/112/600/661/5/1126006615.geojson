@@ -46,6 +46,9 @@
     "name:ita_x_preferred":[
         "\u00c1nir"
     ],
+    "name:lit_x_preferred":[
+        "Aniras"
+    ],
     "name:nld_x_preferred":[
         "\u00c1nir"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1126006615,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1563236585,
     "wof:name":"\u00c1nir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

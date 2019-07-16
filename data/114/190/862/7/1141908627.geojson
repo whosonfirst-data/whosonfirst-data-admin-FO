@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0633\u0647\u0627\u0641\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0634\u0647\u0627\u0641\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Tors\u1e25avn"
+    ],
     "name:aze_x_preferred":[
         "Torshavn"
     ],
@@ -158,6 +164,9 @@
     "name:lav_x_preferred":[
         "Tour\u0161havna"
     ],
+    "name:lij_x_preferred":[
+        "Torshavn"
+    ],
     "name:lit_x_preferred":[
         "Torshaunas"
     ],
@@ -174,6 +183,9 @@
         "T\u00f3rshavn"
     ],
     "name:mri_x_preferred":[
+        "T\u00f3rshavn"
+    ],
+    "name:nan_x_preferred":[
         "T\u00f3rshavn"
     ],
     "name:nds_x_preferred":[
@@ -247,6 +259,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bcb\u0bb0\u0bcd\u0b9a\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u043e\u0440\u0441\u04bb\u0430\u0432\u043d"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e2d\u0e23\u0e4c\u0e2a\u0e40\u0e2e\u0e32\u0e19\u0e4c"
@@ -398,7 +413,7 @@
         }
     ],
     "wof:id":1141908627,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236597,
     "wof:name":"Torshavn",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

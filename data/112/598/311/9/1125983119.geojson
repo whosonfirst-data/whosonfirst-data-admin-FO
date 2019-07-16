@@ -52,6 +52,9 @@
     "name:nob_x_preferred":[
         "Kaldbak"
     ],
+    "name:pol_x_preferred":[
+        "Kaldbak"
+    ],
     "name:ron_x_preferred":[
         "Kaldbak"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125983119,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1563236581,
     "wof:name":"Kaldbak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

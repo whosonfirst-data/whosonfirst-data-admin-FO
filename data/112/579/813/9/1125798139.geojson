@@ -43,6 +43,9 @@
     "name:nob_x_preferred":[
         "Sy\u00f0radalur"
     ],
+    "name:pol_x_preferred":[
+        "Sy\u00f0radalur"
+    ],
     "name:ron_x_preferred":[
         "Sy\u00f0radalur"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125798139,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236589,
     "wof:name":"Sy\u00ffradalur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

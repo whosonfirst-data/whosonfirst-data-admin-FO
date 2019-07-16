@@ -24,6 +24,9 @@
     "name:deu_x_preferred":[
         "Flughafen V\u00e1gar"
     ],
+    "name:eng_x_preferred":[
+        "V\u00e1gar Airport"
+    ],
     "name:epo_x_preferred":[
         "Flughaveno de V\u00e1gar"
     ],
@@ -39,8 +42,71 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de V\u00e1gar"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d5\u05d0\u05d5\u05d2\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka V\u00e1gar"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1gari rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara V\u00e1gar"
+    ],
+    "name:isl_x_preferred":[
+        "V\u00e1gaflugv\u00f6llur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30fc\u30a2\u30eb\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uac00\ub974 \uacf5\ud56d"
+    ],
+    "name:lit_x_preferred":[
+        "Vagaro oro uostas"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Vagar"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven V\u00e1gar"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e1gar lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy V\u00e1gar"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul V\u00e1gar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0433\u0430\u0440"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de V\u00e1gar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0412\u0430\u0433\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e1gar flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u0433\u043e\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "V\u00e1gar Havaalan\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0433\u0430\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay V\u00e1gar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u683c\u6a5f\u5834"
     ],
     "oa:elevation_ft":"280",
     "oa:type":"medium_airport",
@@ -74,7 +140,7 @@
         }
     ],
     "wof:id":102551591,
-    "wof:lastmodified":1543846099,
+    "wof:lastmodified":1563236543,
     "wof:name":"Vagar Airport",
     "wof:parent_id":85671213,
     "wof:placetype":"campus",
