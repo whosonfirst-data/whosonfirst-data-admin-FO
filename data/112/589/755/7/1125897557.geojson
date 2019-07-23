@@ -58,6 +58,9 @@
     "name:unk_x_variant":[
         "Skarven\u00e6s"
     ],
+    "name:vie_x_preferred":[
+        "N\u00f3lsoy"
+    ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
     "qs_pg:gn_fcode":"PPL",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125897557,
-    "wof:lastmodified":1561831530,
+    "wof:lastmodified":1563236564,
     "wof:name":"Skarvanes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

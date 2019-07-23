@@ -43,6 +43,9 @@
     "name:hun_x_preferred":[
         "Saksun"
     ],
+    "name:isl_x_preferred":[
+        "Saksun"
+    ],
     "name:lit_x_preferred":[
         "Saksunas"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125910735,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1563236575,
     "wof:name":"Saksun",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

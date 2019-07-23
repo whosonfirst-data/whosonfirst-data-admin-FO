@@ -49,6 +49,9 @@
     "name:nob_x_preferred":[
         "Sk\u00e6lingur"
     ],
+    "name:pol_x_preferred":[
+        "Sk\u00e6lingur"
+    ],
     "name:ron_x_preferred":[
         "Sk\u00e6lingur"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125774649,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236594,
     "wof:name":"Sk\u00e6lingur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

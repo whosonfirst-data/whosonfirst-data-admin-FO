@@ -40,6 +40,9 @@
     "name:hun_x_preferred":[
         "Tj\u00f8rnuv\u00edk"
     ],
+    "name:isl_x_preferred":[
+        "Tj\u00f8rnuv\u00edk"
+    ],
     "name:lit_x_preferred":[
         "Tjornuvikas"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125805663,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1563236567,
     "wof:name":"Tj\u00f8rnuv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

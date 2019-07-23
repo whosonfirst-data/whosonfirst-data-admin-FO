@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hattarv\u00edk"
+    ],
     "name:dan_x_preferred":[
         "Hattarv\u00edk"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125805623,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1563236568,
     "wof:name":"Hattarv\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

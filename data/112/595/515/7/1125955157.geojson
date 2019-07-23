@@ -42,6 +42,9 @@
     "name:hun_x_preferred":[
         "Trongisv\u00e1gur"
     ],
+    "name:isl_x_preferred":[
+        "Trongisv\u00e1gur"
+    ],
     "name:kal_x_preferred":[
         "Trongisv\u00e1gur"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125955157,
-    "wof:lastmodified":1561831529,
+    "wof:lastmodified":1563236555,
     "wof:name":"Trongisv\u00e1gur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

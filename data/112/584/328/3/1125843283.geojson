@@ -61,6 +61,9 @@
     "name:oss_x_preferred":[
         "\u0425\u0443\u0441\u0430\u0440"
     ],
+    "name:pol_x_preferred":[
+        "H\u00fasar"
+    ],
     "name:ron_x_preferred":[
         "H\u00fasar"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125843283,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236593,
     "wof:name":"H\u00fasar",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:hun_x_preferred":[
         "S\u00f8ldarfj\u00f8r\u00f0ur"
     ],
+    "name:isl_x_preferred":[
+        "S\u00f8ldarfj\u00f8r\u00f0ur"
+    ],
     "name:nld_x_preferred":[
         "S\u00f8ldarfj\u00f8r\u00f0ur"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125884269,
-    "wof:lastmodified":1561831530,
+    "wof:lastmodified":1563236562,
     "wof:name":"S\u00f8ldarfj\u00f8r\u00ffur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

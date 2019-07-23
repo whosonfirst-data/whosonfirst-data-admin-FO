@@ -36,6 +36,9 @@
     "name:hun_x_preferred":[
         "Sk\u00e1li"
     ],
+    "name:isl_x_preferred":[
+        "Sk\u00e1la"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ab\u30fc\u30ea"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125982241,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1563236578,
     "wof:name":"Sk\u00e1li",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Leynar"
     ],
+    "name:pol_x_preferred":[
+        "Leynar"
+    ],
     "name:ron_x_preferred":[
         "Leynar"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125982155,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1563236578,
     "wof:name":"Leynar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

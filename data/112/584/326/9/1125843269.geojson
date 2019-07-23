@@ -25,6 +25,9 @@
     "name:deu_x_preferred":[
         "Kollafj\u00f8r\u00f0ur"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03b1\u03c6\u03b9\u03bf\u03c1\u03bd\u03c4\u03bf\u03c5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Kollafj\u00f8r\u00f0ur"
     ],
@@ -38,6 +41,9 @@
         "Kollafj\u00f8r\u00f0ur"
     ],
     "name:hun_x_preferred":[
+        "Kollafj\u00f8r\u00f0ur"
+    ],
+    "name:isl_x_preferred":[
         "Kollafj\u00f8r\u00f0ur"
     ],
     "name:lit_x_preferred":[
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1125843269,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236593,
     "wof:name":"Kollafj\u00f8r\u00f0ur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

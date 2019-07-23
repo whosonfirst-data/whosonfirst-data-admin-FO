@@ -58,6 +58,9 @@
     "name:swe_x_preferred":[
         "Lambi"
     ],
+    "name:swe_x_variant":[
+        "Lamba"
+    ],
     "name:unk_x_variant":[
         "Lamhange"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125844093,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1563236591,
     "wof:name":"Lambi",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",
