@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0641\u062a\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0641\u062a\u064a\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Toftir"
+    ],
     "name:dan_x_preferred":[
         "Toftir"
     ],
@@ -40,6 +46,27 @@
     ],
     "name:fao_x_preferred":[
         "Toftir"
+    ],
+    "name:fin_x_preferred":[
+        "Toftir"
+    ],
+    "name:fra_x_preferred":[
+        "Toftir"
+    ],
+    "name:glv_x_preferred":[
+        "Toftir"
+    ],
+    "name:hun_x_preferred":[
+        "Toftir"
+    ],
+    "name:isl_x_preferred":[
+        "Toftir"
+    ],
+    "name:ita_x_preferred":[
+        "Toftir"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ud504\ud2f0\ub974"
     ],
     "name:lit_x_preferred":[
         "Toftiras"
@@ -53,8 +80,17 @@
     "name:pol_x_preferred":[
         "Toftir"
     ],
+    "name:ron_x_preferred":[
+        "Toftir"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0444\u0442\u0438\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Toftir"
+    ],
+    "name:spa_x_preferred":[
+        "Toftir"
     ],
     "name:swe_x_preferred":[
         "Toftir"
@@ -87,7 +123,7 @@
         }
     ],
     "wof:id":1209846581,
-    "wof:lastmodified":1537622474,
+    "wof:lastmodified":1564120297,
     "wof:name":"Toftir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
