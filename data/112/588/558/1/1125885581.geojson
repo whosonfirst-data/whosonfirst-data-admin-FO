@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0646\u064a\u0646\u062c\u0648\u0631"
+    ],
+    "name:ces_x_preferred":[
+        "Funningur"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0443\u043d\u043d\u0438\u043d\u0433\u0443\u0440"
+    ],
     "name:dan_x_preferred":[
         "Funningur"
     ],
@@ -34,10 +43,25 @@
     "name:fra_x_preferred":[
         "Funningur"
     ],
+    "name:hun_x_preferred":[
+        "Funningur"
+    ],
+    "name:lit_x_preferred":[
+        "Funinguras"
+    ],
     "name:nld_x_preferred":[
         "Funningur"
     ],
     "name:nor_x_preferred":[
+        "Funningur"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0443\u043d\u043d\u0438\u043d\u0433\u0443\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Funningur"
+    ],
+    "name:ron_x_preferred":[
         "Funningur"
     ],
     "name:slk_x_preferred":[
@@ -48,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Funningur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u043d\u043d\u0456\u043d\u0433\u0443\u0440"
     ],
     "name:unk_x_variant":[
         "Funding"
@@ -105,7 +132,7 @@
         }
     ],
     "wof:id":1125885581,
-    "wof:lastmodified":1509998567,
+    "wof:lastmodified":1564120303,
     "wof:name":"Funningur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

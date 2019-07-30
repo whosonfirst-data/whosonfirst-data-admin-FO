@@ -25,6 +25,57 @@
     "iso:country":"FO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:deu_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:fao_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:fra_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:glv_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:hun_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:isl_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:ita_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:lit_x_preferred":[
+        "Vidareidis"
+    ],
+    "name:nld_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:nor_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0438\u0430\u0440\u0430\u0439\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:ron_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:sco_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:spa_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
+    "name:swe_x_preferred":[
+        "Vi\u00f0arei\u00f0i"
+    ],
     "name:und_x_variant":[
         "Viderejde",
         "Videreide",
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1209446329,
-    "wof:lastmodified":1537622473,
+    "wof:lastmodified":1564120299,
     "wof:name":"Vidhareidhi",
     "wof:parent_id":85633153,
     "wof:placetype":"locality",
