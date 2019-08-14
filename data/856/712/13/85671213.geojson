@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Eysturoyar Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OS"
+    ],
     "lbl:latitude":62.185604,
     "lbl:longitude":-7.058429,
     "mps:latitude":62.185604,
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85671213,
-    "wof:lang":[
-        "dan"
-    ],
     "wof:lang_x_official":[
         "fao"
     ],
     "wof:lang_x_spoken":[
         "fao"
     ],
-    "wof:lastmodified":1561831528,
+    "wof:lastmodified":1565710024,
     "wof:name":"Eysturoyar",
     "wof:parent_id":85633153,
     "wof:placetype":"region",
