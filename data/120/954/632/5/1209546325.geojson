@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.74079,62.18938,-6.70079,62.22938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gar\u00f0ur",
         "Vi\u00f0 Gard",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209546325,
-    "wof:lastmodified":1537622473,
+    "wof:lastmodified":1566596199,
     "wof:name":"Vid Gard",
     "wof:parent_id":85633153,
     "wof:placetype":"locality",

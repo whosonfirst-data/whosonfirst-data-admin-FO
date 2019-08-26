@@ -9,15 +9,18 @@
     "geom:bbox":"-6.84772,62.19501,-6.84772,62.19501",
     "geom:latitude":62.19501,
     "geom:longitude":-6.84772,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":105,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":105,
     "iso:country":"FO",
+    "lbl:bbox":"-6.86772,62.17501,-6.82772,62.21501",
     "lbl:latitude":62.19501,
     "lbl:longitude":-6.84772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Sk\u00e1labotnur"
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "Sk\u00e1labotnur"
     ],
-    "name:unk_x_variant":[
-        "Sk\u00e1labotnur"
-    ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
     "qs_pg:gn_fcode":"PPL",
@@ -64,7 +64,7 @@
     "qs_pg:qs_id":91911,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85633153,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125824021,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1566596211,
     "wof:name":"Sk\u00e1lafj\u00f8r\u00f0ur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

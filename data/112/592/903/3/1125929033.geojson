@@ -9,15 +9,18 @@
     "geom:bbox":"-6.96242,61.98647,-6.96242,61.98647",
     "geom:latitude":61.98647,
     "geom:longitude":-6.96242,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":2,
     "iso:country":"FO",
+    "lbl:bbox":"-6.98242,61.96647,-6.94242,62.00647",
     "lbl:latitude":61.98647,
     "lbl:longitude":-6.96242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Koltur adas\u0131"
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u044c\u0442\u0443\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolter\u00f8"
     ],
     "name:vie_x_preferred":[
@@ -166,7 +169,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472677,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1125929033,
-    "wof:lastmodified":1563236554,
+    "wof:lastmodified":1566596203,
     "wof:name":"Koltur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

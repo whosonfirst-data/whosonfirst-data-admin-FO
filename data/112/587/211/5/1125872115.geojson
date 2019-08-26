@@ -9,15 +9,18 @@
     "geom:bbox":"-6.72724,62.08202,-6.72724,62.08202",
     "geom:latitude":62.08202,
     "geom:longitude":-6.72724,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":233,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":233,
     "iso:country":"FO",
+    "lbl:bbox":"-6.74724,62.06202,-6.70724,62.10202",
     "lbl:latitude":62.08202,
     "lbl:longitude":-6.72724,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Nes"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Nes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e6s"
     ],
     "qs_pg:aaroncc":"FO",
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472701,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125872115,
-    "wof:lastmodified":1563236569,
+    "wof:lastmodified":1566596207,
     "wof:name":"Nes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-7.04698,62.12179,-7.00698,62.16179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gjoven",
         "Gj\u00f3gvin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327066971,
-    "wof:lastmodified":1537622476,
+    "wof:lastmodified":1566596195,
     "wof:name":"Gjogvin",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

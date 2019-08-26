@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.80724,62.14229,-6.76724,62.18229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Langasandur"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1243490423,
-    "wof:lastmodified":1564120307,
+    "wof:lastmodified":1566596213,
     "wof:name":"Langasandur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

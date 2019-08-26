@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.59685,62.20701,-6.55685,62.24701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Biskopst\u00f8",
         "Biskupsst\u00f8\u00f0"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310238533,
-    "wof:lastmodified":1537622476,
+    "wof:lastmodified":1566596201,
     "wof:name":"Biskupsstod",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-6.80176,61.77308,-6.80176,61.77308",
     "geom:latitude":61.77308,
     "geom:longitude":-6.80176,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":53,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":53,
     "iso:country":"FO",
+    "lbl:bbox":"-6.82176,61.75308,-6.78176,61.79308",
     "lbl:latitude":61.77308,
     "lbl:longitude":-6.80176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Sk\u00favoy"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Sk\u00favoy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sk\u00favoyarbygd"
     ],
     "qs_pg:aaroncc":"FO",
@@ -76,7 +79,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472750,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125982245,
-    "wof:lastmodified":1563236579,
+    "wof:lastmodified":1566596210,
     "wof:name":"Sk\u00favoy",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

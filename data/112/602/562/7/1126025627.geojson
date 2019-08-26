@@ -9,15 +9,18 @@
     "geom:bbox":"-7.14433,62.05428,-7.14433,62.05428",
     "geom:latitude":62.05428,
     "geom:longitude":-7.14433,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":779,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":779,
     "iso:country":"FO",
+    "lbl:bbox":"-7.16433,62.03428,-7.12433,62.07428",
     "lbl:latitude":62.05428,
     "lbl:longitude":-7.14433,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Sandav\u00e1gur"
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Sandav\u00e1gur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sandev\u00e5g"
     ],
     "qs_pg:aaroncc":"FO",
@@ -100,7 +103,7 @@
     "qs_pg:qs_id":575223,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85633153,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1126025627,
-    "wof:lastmodified":1563236558,
+    "wof:lastmodified":1566596204,
     "wof:name":"Sandav\u00e1gur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-7.17241,62.24821,-7.17241,62.24821",
     "geom:latitude":62.24821,
     "geom:longitude":-7.17241,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":37,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":37,
     "iso:country":"FO",
+    "lbl:bbox":"-7.19241,62.22821,-7.15241,62.26821",
     "lbl:latitude":62.24821,
     "lbl:longitude":-7.17241,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0421\u0430\u043a\u0441\u0443\u043d"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Saksun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saksen"
     ],
     "qs_pg:aaroncc":"FO",
@@ -94,7 +97,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472725,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1125910735,
-    "wof:lastmodified":1563236575,
+    "wof:lastmodified":1566596209,
     "wof:name":"Saksun",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

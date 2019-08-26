@@ -9,15 +9,18 @@
     "geom:bbox":"-6.78127,62.03407,-6.78127,62.03407",
     "geom:latitude":62.03407,
     "geom:longitude":-6.78127,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2777,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":2777,
     "iso:country":"FO",
+    "lbl:bbox":"-6.80127,62.01407,-6.76127,62.05407",
     "lbl:latitude":62.03407,
     "lbl:longitude":-6.78127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u043e\u0439\u0432\u0456\u043a"
@@ -106,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0439\u0432\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoyvig"
     ],
     "name:zho_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:qs_id":91915,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85633153,
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1125843275,
-    "wof:lastmodified":1563236592,
+    "wof:lastmodified":1566596212,
     "wof:name":"Hoyv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

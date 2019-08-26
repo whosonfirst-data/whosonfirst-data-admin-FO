@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.70606,62.04917,-6.66606,62.08917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "\u00c6\u00f0uv\u00edk"
     ],
@@ -61,9 +65,6 @@
     "name:swe_x_preferred":[
         "\u00c6\u00f0uv\u00edk"
     ],
-    "name:und_x_variant":[
-        "\u00c6\u00f0uv\u00edk"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633153
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1209251219,
-    "wof:lastmodified":1564120298,
+    "wof:lastmodified":1566596199,
     "wof:name":"Avevig",
     "wof:parent_id":85633153,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-6.92554,62.03889,-6.92554,62.03889",
     "geom:latitude":62.03889,
     "geom:longitude":-6.92554,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":19,
     "iso:country":"FO",
+    "lbl:bbox":"-6.94554,62.01889,-6.90554,62.05889",
     "lbl:latitude":62.03889,
     "lbl:longitude":-6.92554,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Nor\u00f0radalur"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Nor\u00f0radalur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nordredal"
     ],
     "qs_pg:aaroncc":"FO",
@@ -76,7 +79,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472710,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125906901,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1566596208,
     "wof:name":"Nor\u00ffradalur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

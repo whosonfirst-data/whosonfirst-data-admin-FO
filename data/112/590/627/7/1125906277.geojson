@@ -9,15 +9,18 @@
     "geom:bbox":"-7.06006,62.11765,-7.06006,62.11765",
     "geom:latitude":62.11765,
     "geom:longitude":-7.06006,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":42,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":42,
     "iso:country":"FO",
+    "lbl:bbox":"-7.08006,62.09765,-7.04006,62.13765",
     "lbl:latitude":62.11765,
     "lbl:longitude":-7.06006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Stykki\u00f0"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Stykki\u00f0"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stykket"
     ],
     "qs_pg:aaroncc":"FO",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472759,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125906277,
-    "wof:lastmodified":1561831531,
+    "wof:lastmodified":1566596208,
     "wof:name":"Stykki\u00ff",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

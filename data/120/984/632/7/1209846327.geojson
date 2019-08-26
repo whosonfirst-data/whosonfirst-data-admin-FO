@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-7.15333,62.13,-7.11333,62.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Steg\u00e5rd",
         "Steigargar\u00f0ur",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209846327,
-    "wof:lastmodified":1537622476,
+    "wof:lastmodified":1566596199,
     "wof:name":"A Steig",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

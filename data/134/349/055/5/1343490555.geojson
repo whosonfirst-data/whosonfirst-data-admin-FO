@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.9286,61.99882,-6.8886,62.03882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Sy\u00f0radalur"
     ],
@@ -57,8 +61,7 @@
         "Sy\u00f0radalur"
     ],
     "name:und_x_variant":[
-        "Sydredal",
-        "Sy\u00f0radalur"
+        "Sydredal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1343490555,
-    "wof:lastmodified":1564120292,
+    "wof:lastmodified":1566596196,
     "wof:name":"Sydradalur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

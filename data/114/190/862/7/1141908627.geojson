@@ -10,10 +10,14 @@
     "geom:latitude":62.030024,
     "geom:longitude":-6.820034,
     "iso:country":"FO",
+    "lbl:bbox":"-6.84003361147,62.0100238232,-6.80003361147,62.0500238232",
     "lbl:latitude":62.030024,
     "lbl:longitude":-6.820034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "T\u00f3rshavn"
     ],
@@ -413,7 +417,7 @@
         }
     ],
     "wof:id":1141908627,
-    "wof:lastmodified":1563236597,
+    "wof:lastmodified":1566596214,
     "wof:name":"Torshavn",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",
