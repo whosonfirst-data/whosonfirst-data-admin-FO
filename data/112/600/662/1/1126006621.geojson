@@ -9,15 +9,18 @@
     "geom:bbox":"-6.52006,62.25264,-6.52006,62.25264",
     "geom:latitude":62.25264,
     "geom:longitude":-6.52006,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":59,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":59,
     "iso:country":"FO",
+    "lbl:bbox":"-6.54006,62.23264,-6.50006,62.27264",
     "lbl:latitude":62.25264,
     "lbl:longitude":-6.52006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "\u00c1rnafj\u00f8r\u00f0ur"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "\u00c1rnafj\u00f8r\u00f0ur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arnefjord"
     ],
     "qs_pg:aaroncc":"FO",
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472613,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1126006621,
-    "wof:lastmodified":1561831533,
+    "wof:lastmodified":1566596211,
     "wof:name":"\u00c1rnafj\u00f8r\u00ffur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

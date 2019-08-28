@@ -9,14 +9,18 @@
     "geom:bbox":"-6.84793,61.56262,-6.84793,61.56262",
     "geom:latitude":61.56262,
     "geom:longitude":-6.84793,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FO",
+    "lbl:bbox":"-6.86793,61.54262,-6.82793,61.58262",
     "lbl:latitude":61.56262,
     "lbl:longitude":-6.84793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Trongisv\u00e1gur"
@@ -69,7 +73,7 @@
     "name:swe_x_preferred":[
         "Trongisv\u00e1gur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trangisv\u00e5g"
     ],
     "qs_pg:aaroncc":"FO",
@@ -93,7 +97,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472778,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
     "woe:name_adm1":"Su\u00f0uroy",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1125955157,
-    "wof:lastmodified":1563236555,
+    "wof:lastmodified":1566596203,
     "wof:name":"Trongisv\u00e1gur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

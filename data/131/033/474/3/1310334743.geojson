@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.75419,62.06454,-6.71419,62.10454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Torkilsheygur",
         "Torkildsh\u00f8j",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310334743,
-    "wof:lastmodified":1537622473,
+    "wof:lastmodified":1566596202,
     "wof:name":"Torkilsheyggjur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

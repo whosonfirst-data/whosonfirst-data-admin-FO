@@ -9,15 +9,18 @@
     "geom:bbox":"-6.77154,61.99595,-6.77154,61.99595",
     "geom:latitude":61.99595,
     "geom:longitude":-6.77154,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1871,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":1871,
     "iso:country":"FO",
+    "lbl:bbox":"-6.79154,61.97595,-6.75154,62.01595",
     "lbl:latitude":61.99595,
     "lbl:longitude":-6.77154,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Argir"
@@ -91,7 +94,7 @@
     "name:swe_x_preferred":[
         "Argir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arge"
     ],
     "name:zho_x_preferred":[
@@ -118,7 +121,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472612,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1126008619,
-    "wof:lastmodified":1563236584,
+    "wof:lastmodified":1566596211,
     "wof:name":"Argir",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-6.77135,61.44361,-6.77135,61.44361",
     "geom:latitude":61.44361,
     "geom:longitude":-6.77135,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":124,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":124,
     "iso:country":"FO",
+    "lbl:bbox":"-6.79135,61.42361,-6.75135,61.46361",
     "lbl:latitude":61.44361,
     "lbl:longitude":-6.77135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Lopra"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Lopra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lobra"
     ],
     "qs_pg:aaroncc":"FO",
@@ -85,7 +88,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472691,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125982185,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1566596209,
     "wof:name":"Lopra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

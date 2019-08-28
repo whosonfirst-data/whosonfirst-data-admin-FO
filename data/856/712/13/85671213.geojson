@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":62.185604,
     "lbl:longitude":-7.058429,
+    "lbl:min_zoom":8.0,
     "mps:latitude":62.185604,
     "mps:longitude":-7.058429,
     "mz:hierarchy_label":1,
@@ -151,18 +152,15 @@
         "Foroyar",
         "Nisoi Feroes"
     ],
-    "name:und_x_preferred":[
-        "F\u00e6reyjar",
-        "F\u00f8royar"
-    ],
     "name:und_x_variant":[
+        "F\u00e6reyjar",
+        "F\u00f8royar",
         "Faersk\u00e9 ostrovy",
         "Farers'ki ostrovy",
         "Farerskie ostrova",
         "F\u00e4\u00e4rsaaret",
         "Illes Faroe",
-        "N\u00edsoi Fer\u00f3es",
-        "Wyspy Owcze"
+        "N\u00edsoi Fer\u00f3es"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u7f85\u7fa4\u5cf6"
@@ -240,7 +238,7 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633153,
@@ -252,7 +250,7 @@
         "gn:id":-99,
         "gp:id":23424816,
         "hasc:id":"FO.OS",
-        "qs:id":367739
+        "qs_pg:id":367739
     },
     "wof:country":"FO",
     "wof:geomhash":"dbbec8a30123797f61da2ae4dad7d46d",
@@ -272,7 +270,7 @@
     "wof:lang_x_spoken":[
         "fao"
     ],
-    "wof:lastmodified":1565710024,
+    "wof:lastmodified":1566596197,
     "wof:name":"Eysturoyar",
     "wof:parent_id":85633153,
     "wof:placetype":"region",

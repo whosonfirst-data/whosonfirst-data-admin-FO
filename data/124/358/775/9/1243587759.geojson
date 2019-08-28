@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-7.16392,62.13033,-7.12392,62.17033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "V\u00e1lur"
     ],
@@ -57,8 +61,7 @@
         "V\u00e1lur"
     ],
     "name:und_x_variant":[
-        "V\u00e5len",
-        "V\u00e1lur"
+        "V\u00e5len"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1243587759,
-    "wof:lastmodified":1564120308,
+    "wof:lastmodified":1566596214,
     "wof:name":"Valur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

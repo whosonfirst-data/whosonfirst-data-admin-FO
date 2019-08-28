@@ -9,15 +9,18 @@
     "geom:bbox":"-6.57525,62.25601,-6.57525,62.25601",
     "geom:latitude":62.25601,
     "geom:longitude":-6.57525,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":18,
     "iso:country":"FO",
+    "lbl:bbox":"-6.59525,62.23601,-6.55525,62.27601",
     "lbl:latitude":62.25601,
     "lbl:longitude":-6.57525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "\u00c1nir"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "\u00c1nir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aaerne"
     ],
     "qs_pg:aaroncc":"FO",
@@ -92,7 +95,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472611,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1126006615,
-    "wof:lastmodified":1563236585,
+    "wof:lastmodified":1566596211,
     "wof:name":"\u00c1nir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Faroe",
     "iso:country":"FO",
+    "lbl:bbox":"-6.92485,62.09986,-6.88485,62.13986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0631"
     ],
@@ -49,8 +53,7 @@
     ],
     "name:und_x_variant":[
         "Hamre",
-        "Hamrar",
-        "Hamar"
+        "Hamrar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1310339885,
-    "wof:lastmodified":1564120301,
+    "wof:lastmodified":1566596202,
     "wof:name":"Hamar",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

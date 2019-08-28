@@ -9,15 +9,18 @@
     "geom:bbox":"-6.75958,62.33345,-6.75958,62.33345",
     "geom:latitude":62.33345,
     "geom:longitude":-6.75958,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":60,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":60,
     "iso:country":"FO",
+    "lbl:bbox":"-6.77958,62.31345,-6.73958,62.35345",
     "lbl:latitude":62.33345,
     "lbl:longitude":-6.75958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Mikladalur"
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Mikladalur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mygledal"
     ],
     "qs_pg:aaroncc":"FO",
@@ -91,7 +94,7 @@
     "qs_pg:woe_adm0":23424816,
     "qs_pg:woe_id":472692,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424816,
     "woe:name_adm0":"F\u00e6r\u00f8erne",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125982199,
-    "wof:lastmodified":1561831532,
+    "wof:lastmodified":1566596209,
     "wof:name":"Mikladalur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",
