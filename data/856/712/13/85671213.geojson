@@ -9,7 +9,6 @@
     "geom:bbox":"-7.64415442549,61.3941104197,-6.27578691304,62.3989118513",
     "geom:latitude":62.074027,
     "geom:longitude":-6.870555,
-    "gn:id":"",
     "iso:country":"FO",
     "label:eng_x_preferred_longname":[
         "Eysturoyar Region"
@@ -270,7 +269,7 @@
     "wof:lang_x_spoken":[
         "fao"
     ],
-    "wof:lastmodified":1566596197,
+    "wof:lastmodified":1603245065,
     "wof:name":"Eysturoyar",
     "wof:parent_id":85633153,
     "wof:placetype":"region",
