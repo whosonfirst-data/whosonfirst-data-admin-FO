@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.27722222222,62.0636111111,-7.27722222222,62.0636111111",
+    "geom:bbox":"-7.277222,62.063611,-7.277222,62.063611",
     "geom:latitude":62.063611,
     "geom:longitude":-7.277222,
     "iso:country":"FO",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "V\u00e1gar Airport"
+    ],
+    "name:eng_x_variant":[
+        "FAE",
+        "EKVG"
     ],
     "name:epo_x_preferred":[
         "Flughaveno de V\u00e1gar"
@@ -132,7 +136,7 @@
         "wd:id":"Q371471"
     },
     "wof:country":"FO",
-    "wof:geomhash":"d0286e15a64b2d90b8d67607ab2c744f",
+    "wof:geomhash":"f014c6f6372dc2f17f4a043607eae716",
     "wof:hierarchy":[
         {
             "campus_id":102551591,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":102551591,
-    "wof:lastmodified":1566596196,
+    "wof:lastmodified":1631744577,
     "wof:name":"Vagar Airport",
     "wof:parent_id":85671213,
     "wof:placetype":"campus",
@@ -153,10 +157,10 @@
     ]
 },
   "bbox": [
-    -7.2772222222222,
-    62.063611111111,
-    -7.2772222222222,
-    62.063611111111
+    -7.277222,
+    62.063611,
+    -7.277222,
+    62.063611
 ],
-  "geometry": {"coordinates":[-7.2772222222222,62.063611111111],"type":"Point"}
+  "geometry": {"coordinates":[-7.277222,62.063611],"type":"Point"}
 }
