@@ -29,7 +29,11 @@
         "Kolbanargj\u00f3gv"
     ],
     "name:eng_x_preferred":[
-        "Kolbanargj\u00f3gv"
+        "Kolbeinagjogv"
+    ],
+    "name:eng_x_variant":[
+        "Kolbanargj\u00f3gv",
+        "Kolbeinagj\u00f3gv"
     ],
     "name:fao_x_preferred":[
         "Kolbanargj\u00f3gv"
@@ -79,8 +83,8 @@
     "woe:name_adm1":"Sy\u00f0ra Eysturoy",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633153,
         102191581,
+        85633153,
         136253045
     ],
     "wof:breaches":[],
@@ -104,8 +108,8 @@
         }
     ],
     "wof:id":1125915083,
-    "wof:lastmodified":1566596209,
-    "wof:name":"Kolbanargj\u00f3gv",
+    "wof:lastmodified":1636497649,
+    "wof:name":"Kolbeinagjogv",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fo",
