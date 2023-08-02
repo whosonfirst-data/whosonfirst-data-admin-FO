@@ -55,14 +55,23 @@
     "name:nob_x_preferred":[
         "Hattarv\u00edk"
     ],
+    "name:pol_x_preferred":[
+        "Hattarv\u00edk"
+    ],
     "name:ron_x_preferred":[
         "Hattarv\u00edk"
     ],
     "name:swe_x_preferred":[
         "Hattarv\u00edk"
     ],
+    "name:tur_x_preferred":[
+        "Hattarvik"
+    ],
     "name:und_x_variant":[
         "Hattervig"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5854\u5c14\u7ef4\u514b"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125805623,
-    "wof:lastmodified":1566596207,
+    "wof:lastmodified":1690893385,
     "wof:name":"Hattarv\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

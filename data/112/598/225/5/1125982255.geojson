@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09ae\u09cd\u09ac\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Sumba"
+    ],
     "name:ceb_x_preferred":[
         "Sumba"
     ],
@@ -76,10 +79,16 @@
     "name:ron_x_preferred":[
         "Sumba"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0431\u0430"
+    ],
     "name:spa_x_preferred":[
         "Sumba"
     ],
     "name:swe_x_preferred":[
+        "Sumba"
+    ],
+    "name:tur_x_preferred":[
         "Sumba"
     ],
     "name:und_x_variant":[
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":1125982255,
-    "wof:lastmodified":1636495064,
+    "wof:lastmodified":1690893390,
     "wof:name":"Sumba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

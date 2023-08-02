@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Depil"
+    ],
     "name:dan_x_preferred":[
         "Depil"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125813095,
-    "wof:lastmodified":1566596205,
+    "wof:lastmodified":1690893382,
     "wof:name":"Depil",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

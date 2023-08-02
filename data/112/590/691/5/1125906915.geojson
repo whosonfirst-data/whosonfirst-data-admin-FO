@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Streymnes"
+    ],
+    "name:cat_x_preferred":[
+        "Streymnes"
+    ],
+    "name:ces_x_preferred":[
+        "Streymnes"
+    ],
     "name:dan_x_preferred":[
         "Streymnes"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:und_x_variant":[
         "Str\u00f6mn\u00e6s"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u96f7\u59c6\u5185\u65af"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1125906915,
-    "wof:lastmodified":1566596208,
+    "wof:lastmodified":1690893387,
     "wof:name":"Streymnes",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

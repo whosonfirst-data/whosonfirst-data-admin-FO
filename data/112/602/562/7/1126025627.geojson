@@ -88,8 +88,14 @@
     "name:swe_x_preferred":[
         "Sandav\u00e1gur"
     ],
+    "name:tur_x_preferred":[
+        "Sandav\u00e1gur"
+    ],
     "name:und_x_variant":[
         "Sandev\u00e5g"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u8fbe\u74e6\u53e4\u5c14"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1126025627,
-    "wof:lastmodified":1566596204,
+    "wof:lastmodified":1690893381,
     "wof:name":"Sandav\u00e1gur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

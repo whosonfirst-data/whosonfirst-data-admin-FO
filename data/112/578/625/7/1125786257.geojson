@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Velbasta\u00f0ur"
+    ],
+    "name:cat_x_preferred":[
+        "Velbasta\u00f0ur"
+    ],
     "name:dan_x_preferred":[
         "Velbasta\u00f0ur"
     ],
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1125786257,
-    "wof:lastmodified":1566596211,
+    "wof:lastmodified":1690893393,
     "wof:name":"Velbasta\u00ffur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

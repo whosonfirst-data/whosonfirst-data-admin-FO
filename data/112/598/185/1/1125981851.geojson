@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u06a4\u064a\u0646\u0648\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0421\u0432\u0443\u0439\u043d\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Sv\u00ednoy"
     ],
     "name:dan_x_preferred":[
         "Sv\u00ednoy bygd"
@@ -50,6 +56,12 @@
         "Svuinojus"
     ],
     "name:nld_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:nno_x_preferred":[
+        "Sv\u00ednoy"
+    ],
+    "name:nob_x_preferred":[
         "Sv\u00ednoy"
     ],
     "name:oss_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125981851,
-    "wof:lastmodified":1566596210,
+    "wof:lastmodified":1690893390,
     "wof:name":"Sv\u00ednoy",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

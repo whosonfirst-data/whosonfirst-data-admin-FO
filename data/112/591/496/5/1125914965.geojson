@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Haldarsv\u00edk"
     ],
+    "name:cat_x_variant":[
+        "Hald\u00f3rsv\u00edk"
+    ],
     "name:ces_x_preferred":[
         "Haldarsv\u00edk"
     ],
@@ -34,14 +37,23 @@
     "name:deu_x_preferred":[
         "Haldarsv\u00edk"
     ],
+    "name:deu_x_variant":[
+        "Hald\u00f3rsv\u00edk"
+    ],
     "name:eng_x_preferred":[
         "Haldarsv\u00edk"
+    ],
+    "name:eng_x_variant":[
+        "Hald\u00f3rsv\u00edk"
     ],
     "name:fao_x_preferred":[
         "Haldarsv\u00edk"
     ],
     "name:fra_x_preferred":[
         "Haldarsv\u00edk"
+    ],
+    "name:fra_x_variant":[
+        "Hald\u00f3rsv\u00edk"
     ],
     "name:glv_x_preferred":[
         "Haldarsv\u00edk"
@@ -58,6 +70,9 @@
     "name:nob_x_preferred":[
         "Haldarsv\u00edk"
     ],
+    "name:nob_x_variant":[
+        "Hald\u00f3rsv\u00edk"
+    ],
     "name:pol_x_preferred":[
         "Haldarsv\u00edk"
     ],
@@ -69,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Haldarsv\u00edk"
+    ],
+    "name:tur_x_preferred":[
+        "Hald\u00f3rsv\u00edk"
     ],
     "name:und_x_variant":[
         "Hald\u00f3rsv\u00edk"
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":1125914965,
-    "wof:lastmodified":1566596209,
+    "wof:lastmodified":1690893388,
     "wof:name":"Haldarsv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

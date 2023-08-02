@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Gj\u00f3gv"
+    ],
     "name:ces_x_preferred":[
         "Gj\u00f3gv"
     ],
@@ -44,6 +47,9 @@
         "Gj\u00f3gv"
     ],
     "name:hun_x_preferred":[
+        "Gj\u00f3gv"
+    ],
+    "name:ita_x_preferred":[
         "Gj\u00f3gv"
     ],
     "name:kal_x_preferred":[
@@ -78,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "Vi\u00f0 Gj\u00f3gv"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u683c\u592b"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1125805171,
-    "wof:lastmodified":1566596207,
+    "wof:lastmodified":1690893385,
     "wof:name":"Gj\u00f3gv",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

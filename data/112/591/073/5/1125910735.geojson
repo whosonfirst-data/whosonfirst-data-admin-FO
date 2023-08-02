@@ -25,6 +25,12 @@
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0421\u0430\u043a\u0441\u0443\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Saksun"
+    ],
+    "name:ces_x_preferred":[
+        "Saksun"
+    ],
     "name:dan_x_preferred":[
         "Saksun"
     ],
@@ -37,6 +43,9 @@
     "name:fao_x_preferred":[
         "Saksun"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0633\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Saksun"
     ],
@@ -46,8 +55,17 @@
     "name:hun_x_preferred":[
         "Saksun"
     ],
+    "name:ido_x_preferred":[
+        "Saksun"
+    ],
     "name:isl_x_preferred":[
         "Saksun"
+    ],
+    "name:ita_x_preferred":[
+        "Saksun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30af\u30bd\u30f3"
     ],
     "name:lit_x_preferred":[
         "Saksunas"
@@ -75,6 +93,9 @@
     ],
     "name:und_x_variant":[
         "Saksen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u514b\u68ee"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -130,7 +151,7 @@
         }
     ],
     "wof:id":1125910735,
-    "wof:lastmodified":1566596209,
+    "wof:lastmodified":1690893388,
     "wof:name":"Saksun",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

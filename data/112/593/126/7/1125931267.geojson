@@ -49,6 +49,9 @@
     "name:hun_x_preferred":[
         "Nor\u00f0rag\u00f8ta"
     ],
+    "name:ind_x_preferred":[
+        "Nor\u00f0rag\u00f8ta"
+    ],
     "name:isl_x_preferred":[
         "Nor\u00f0rag\u00f8ta"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Nordreg\u00f6te"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u683c\u5854"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1125931267,
-    "wof:lastmodified":1566596203,
+    "wof:lastmodified":1690893379,
     "wof:name":"Nor\u00ffrag\u00f8ta",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

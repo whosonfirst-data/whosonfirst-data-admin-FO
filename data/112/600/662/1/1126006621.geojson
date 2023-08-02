@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u00c1rnafj\u00f8r\u00f0ur"
+    ],
     "name:dan_x_preferred":[
         "\u00c1rnafj\u00f8r\u00f0ur"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1126006621,
-    "wof:lastmodified":1566596211,
+    "wof:lastmodified":1690893393,
     "wof:name":"\u00c1rnafj\u00f8r\u00ffur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

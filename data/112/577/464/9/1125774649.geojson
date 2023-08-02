@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Sk\u00e6lingur"
+    ],
+    "name:cat_x_preferred":[
+        "Sk\u00e6lingur"
+    ],
     "name:dan_x_preferred":[
         "Sk\u00e6lingur"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125774649,
-    "wof:lastmodified":1566596213,
+    "wof:lastmodified":1690893395,
     "wof:name":"Sk\u00e6lingur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

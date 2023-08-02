@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "B\u00f8ur"
+    ],
     "name:dan_x_preferred":[
         "B\u00f8ur"
     ],
@@ -35,6 +38,9 @@
         "B\u00f8ur"
     ],
     "name:fao_x_preferred":[
+        "B\u00f8ur"
+    ],
+    "name:fin_x_preferred":[
         "B\u00f8ur"
     ],
     "name:fra_x_preferred":[
@@ -72,6 +78,9 @@
     ],
     "name:und_x_variant":[
         "B\u00f6"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u4e4c\u5c14"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1126024683,
-    "wof:lastmodified":1566596204,
+    "wof:lastmodified":1690893381,
     "wof:name":"B\u00f8ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sk\u00e1labotnur"
+    ],
     "name:dan_x_preferred":[
         "Sk\u00e1labotnur"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:nob_x_preferred":[
         "Sk\u00e1labotnur"
+    ],
+    "name:nob_x_variant":[
+        "\u00cd Sk\u00e1lafir\u00f0i"
     ],
     "name:ron_x_preferred":[
         "Sk\u00e1labotnur"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125824021,
-    "wof:lastmodified":1566596211,
+    "wof:lastmodified":1690893393,
     "wof:name":"Sk\u00e1lafj\u00f8r\u00f0ur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tj\u00f8rnuv\u00edk"
+    ],
+    "name:ces_x_preferred":[
+        "Tj\u00f8rnuv\u00edk"
+    ],
     "name:dan_x_preferred":[
         "Tj\u00f8rnuv\u00edk"
     ],
@@ -45,6 +51,12 @@
     ],
     "name:isl_x_preferred":[
         "Tj\u00f8rnuv\u00edk"
+    ],
+    "name:ita_x_preferred":[
+        "Tj\u00f8rnuv\u00edk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30a2\u30cc\u30f4\u30a3\u30af"
     ],
     "name:lit_x_preferred":[
         "Tjornuvikas"
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125805663,
-    "wof:lastmodified":1566596206,
+    "wof:lastmodified":1690893385,
     "wof:name":"Tj\u00f8rnuv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

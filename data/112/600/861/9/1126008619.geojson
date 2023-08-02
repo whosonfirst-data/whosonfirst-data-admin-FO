@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Argir"
+    ],
+    "name:cat_x_preferred":[
+        "Argir"
+    ],
     "name:ces_x_preferred":[
         "Argir"
     ],
@@ -41,6 +47,9 @@
         "Argir"
     ],
     "name:fra_x_preferred":[
+        "Argir"
+    ],
+    "name:frr_x_preferred":[
         "Argir"
     ],
     "name:glv_x_preferred":[
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":1126008619,
-    "wof:lastmodified":1566596211,
+    "wof:lastmodified":1690893391,
     "wof:name":"Argir",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

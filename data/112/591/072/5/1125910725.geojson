@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u043d\u0430\u0432\u0456\u043a"
+    ],
     "name:cat_x_preferred":[
         "Runav\u00edk"
     ],
     "name:ces_x_preferred":[
+        "Runav\u00edk"
+    ],
+    "name:cym_x_preferred":[
         "Runav\u00edk"
     ],
     "name:dan_x_preferred":[
@@ -97,11 +103,17 @@
     "name:swe_x_preferred":[
         "Runav\u00edk"
     ],
+    "name:tur_x_preferred":[
+        "Runav\u00edk"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u043d\u0430\u0432\u0456\u043a"
     ],
     "name:und_x_variant":[
         "Runevig"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u7eb3\u7ef4\u514b"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1125910725,
-    "wof:lastmodified":1566596209,
+    "wof:lastmodified":1690893389,
     "wof:name":"Runav\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

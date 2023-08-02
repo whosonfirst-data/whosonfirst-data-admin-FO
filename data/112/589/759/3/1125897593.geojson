@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u0643\u064a\u067e\u0627\u0646\u064a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Skipanes"
+    ],
     "name:dan_x_preferred":[
         "Skipanes"
     ],
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125897593,
-    "wof:lastmodified":1566596206,
+    "wof:lastmodified":1690893384,
     "wof:name":"Skipanes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
