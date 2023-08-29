@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Oyri"
+    ],
+    "name:ces_x_preferred":[
+        "Oyri"
+    ],
     "name:dan_x_preferred":[
         "Oyri"
     ],
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1125929077,
-    "wof:lastmodified":1566596203,
+    "wof:lastmodified":1690893379,
     "wof:name":"Oyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

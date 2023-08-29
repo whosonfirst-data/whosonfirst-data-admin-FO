@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Selatra\u00f0"
+    ],
     "name:dan_x_preferred":[
         "Selatra\u00f0"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125982205,
-    "wof:lastmodified":1566596209,
+    "wof:lastmodified":1690893389,
     "wof:name":"Selatra\u00ff",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

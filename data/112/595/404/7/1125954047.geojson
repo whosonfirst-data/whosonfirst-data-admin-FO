@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Hv\u00edtanes"
+    ],
+    "name:cat_x_preferred":[
+        "Hv\u00edtanes"
+    ],
     "name:dan_x_preferred":[
         "Hv\u00edtanes"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125954047,
-    "wof:lastmodified":1566596203,
+    "wof:lastmodified":1690893380,
     "wof:name":"Hv\u00edtanes",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

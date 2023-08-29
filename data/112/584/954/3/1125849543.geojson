@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0648\u0644\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00fali"
+    ],
     "name:dan_x_preferred":[
         "M\u00fali"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125849543,
-    "wof:lastmodified":1566596212,
+    "wof:lastmodified":1690893394,
     "wof:name":"M\u00fali",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

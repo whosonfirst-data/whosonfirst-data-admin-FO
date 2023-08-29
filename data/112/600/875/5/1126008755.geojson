@@ -22,6 +22,18 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Nesv\u00edk"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0441\u0432\u0443\u0439\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Nesv\u00edk"
+    ],
+    "name:ces_x_preferred":[
+        "Nesv\u00edk"
+    ],
     "name:dan_x_preferred":[
         "Nesv\u00edk"
     ],
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1126008755,
-    "wof:lastmodified":1566596210,
+    "wof:lastmodified":1690893391,
     "wof:name":"Nesv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

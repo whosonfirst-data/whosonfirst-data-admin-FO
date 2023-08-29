@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Undir G\u00f8tuei\u00f0i"
+    ],
     "name:dan_x_preferred":[
         "G\u00f8tuei\u00f0i"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126021193,
-    "wof:lastmodified":1566596204,
+    "wof:lastmodified":1690893381,
     "wof:name":"G\u00f8tuei\u00ffi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

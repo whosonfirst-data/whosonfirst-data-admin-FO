@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
+    "name:ces_x_preferred":[
+        "Nor\u00f0sk\u00e1li"
+    ],
     "name:dan_x_preferred":[
         "Nor\u00f0sk\u00e1li"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1126026217,
-    "wof:lastmodified":1566596203,
+    "wof:lastmodified":1690893380,
     "wof:name":"Nor\u00f0sk\u00e1li",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

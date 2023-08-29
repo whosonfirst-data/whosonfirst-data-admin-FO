@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "N\u00f3lsoy"
+    ],
     "name:dan_x_preferred":[
         "N\u00f3lsoy bygd"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125881147,
-    "wof:lastmodified":1566596206,
+    "wof:lastmodified":1690893383,
     "wof:name":"N\u00f3lsoy",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

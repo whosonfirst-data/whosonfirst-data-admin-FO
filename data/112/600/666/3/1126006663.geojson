@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Signab\u00f8ur"
+    ],
+    "name:cat_x_preferred":[
+        "Signab\u00f8ur"
+    ],
     "name:dan_x_preferred":[
         "Signab\u00f8ur"
     ],
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1126006663,
-    "wof:lastmodified":1566596211,
+    "wof:lastmodified":1690893392,
     "wof:name":"Signab\u00f8ur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

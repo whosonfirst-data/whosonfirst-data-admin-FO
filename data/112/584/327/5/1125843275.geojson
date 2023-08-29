@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Hoyv\u00edk"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u043e\u0439\u0432\u0456\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u043e\u0439\u0432\u0456\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Hoyv\u00edk"
     ],
     "name:ces_x_preferred":[
         "Hoyv\u00edk"
@@ -52,6 +61,9 @@
     "name:fra_x_preferred":[
         "Hoyv\u00edk"
     ],
+    "name:frr_x_preferred":[
+        "Hoyv\u00edk"
+    ],
     "name:glv_x_preferred":[
         "Hoyv\u00edk"
     ],
@@ -59,6 +71,9 @@
         "Hoyv\u00edk"
     ],
     "name:isl_x_preferred":[
+        "Hoyv\u00edk"
+    ],
+    "name:ita_x_preferred":[
         "Hoyv\u00edk"
     ],
     "name:kal_x_preferred":[
@@ -155,7 +170,7 @@
         }
     ],
     "wof:id":1125843275,
-    "wof:lastmodified":1566596212,
+    "wof:lastmodified":1690893395,
     "wof:name":"Hoyv\u00edk",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

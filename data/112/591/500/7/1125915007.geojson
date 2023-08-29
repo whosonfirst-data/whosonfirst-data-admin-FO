@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Kirkja"
     ],
+    "name:gle_x_preferred":[
+        "Kirkja"
+    ],
     "name:hun_x_preferred":[
         "Kirkja"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Kirke"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u6070"
     ],
     "qs_pg:aaroncc":"FO",
     "qs_pg:gn_country":"FO",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1125915007,
-    "wof:lastmodified":1566596209,
+    "wof:lastmodified":1690893388,
     "wof:name":"Kirkja",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

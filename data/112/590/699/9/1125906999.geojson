@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sy\u00f0rug\u00f8ta"
+    ],
     "name:dan_x_preferred":[
         "Sy\u00f0rug\u00f8ta"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1125906999,
-    "wof:lastmodified":1566596208,
+    "wof:lastmodified":1690893387,
     "wof:name":"Sy\u00ffrug\u00f8ta",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",
