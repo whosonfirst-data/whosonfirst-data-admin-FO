@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228058,
-    "geom:area_square_m":1320677726.483386,
+    "geom:area_square_m":1320677726.483304,
     "geom:bbox":"-7.64415442549,61.3941104197,-6.27578691304,62.3989118513",
     "geom:latitude":62.074027,
     "geom:longitude":-6.870555,
     "gn:id":"",
     "iso:country":"FO",
     "label:eng_x_preferred_longname":[
-        "Eysturoyar Region"
+        "Faroe Islands Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "OS"
@@ -253,7 +256,7 @@
         "qs_pg:id":367739
     },
     "wof:country":"FO",
-    "wof:geomhash":"dbbec8a30123797f61da2ae4dad7d46d",
+    "wof:geomhash":"3430147024a127cc6327a3c99ccb7023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,7 +273,7 @@
     "wof:lang_x_spoken":[
         "fao"
     ],
-    "wof:lastmodified":1566596197,
+    "wof:lastmodified":1694493125,
     "wof:name":"Eysturoyar",
     "wof:parent_id":85633153,
     "wof:placetype":"region",
