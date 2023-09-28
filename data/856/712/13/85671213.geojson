@@ -26,7 +26,7 @@
     "mps:latitude":62.185604,
     "mps:longitude":-7.058429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:ces_x_preferred":[
@@ -253,8 +253,10 @@
         "gn:id":-99,
         "gp:id":23424816,
         "hasc:id":"FO.OS",
+        "iso:code_pseudo":"FO",
         "qs_pg:id":367739
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"FO",
     "wof:geomhash":"3430147024a127cc6327a3c99ccb7023",
     "wof:hierarchy":[
@@ -273,7 +275,7 @@
     "wof:lang_x_spoken":[
         "fao"
     ],
-    "wof:lastmodified":1694493125,
+    "wof:lastmodified":1695880873,
     "wof:name":"Eysturoyar",
     "wof:parent_id":85633153,
     "wof:placetype":"region",
